@@ -1,0 +1,26 @@
+canonical_identifier: bkk:krp/KR5e0042/ZTDZ/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 雲山集序凡一庚戌夏五月友人論伯瑜至自相臺話舊之餘忽出知常先生文集一編將以板行垂世且索序引義不得以荒鄙辭披玩數四而弗能巳至於賦評論記銘叙歌詩或感物而造端或因人以示意大率以演暢眞風蠲滌塵累爲主意其宏才慱識非夙學頴悟孰能與於此哉先生世本澤郡名族幼讀書習儒業業成涉大變因歸玄教盡棄世縁徑遂神遊八表之志何其偉歟借使當年值承平攄素業展盡底蘊而兼善天下其積功種德爲如何哉唯其時與事於是退而作獨善之計以修身養性日飮聖腴與古仙上靈爲之侶時有著述以鳴道妙而啓迪後人此兩者蓋知常與時舒卷之勢然也初何容心哉七月一日緑野雲孫長安裴憲子法引道行乎教非文不宣蓋將以詔衆而傳遠也宋末金初有所謂全眞家者以心傳心不立文字然重陽祖師以降急於化人皆有教言以惠後學近世栖雲大老化導縁深語緑一編高出前革一傳而得吾知常子心地坦明問學該贍六十四卦八十一章咸有解釋而又作南華解義沖虛斷章言簡而意足義深而理明其可謂黃𠜍中之錚錚鉸鉸者爾間於應物之際游戲𨌺墨其賦詩歌論碑記雜文娓娓可觀號雲山集長安裴憲子法巳叙之於前其友李君提舉復求余說綴於後余與知常有平昔之好嘗爲作易解後序今何辭焉歲旃䝉赤奮若慎獨老人東明王鶚百一序
+  hash: sha256:a9f20bcdc7a64091c6c0ddb0a1be077512406f95e9481431745b51ef04c362e5
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR5e0042_SJB_000-250364a, image: sjb/25/250364a.png}
+metadata:
+  title: 雲山集
+  edition:
+    short: ZTDZ
+    label: 【正統道藏・三家本】
+  date: '2015-08-29 02:08:26.660369'
+  source:
+    repository: kanripo
+    path: KR5e0042/KR5e0042_000.txt
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+hash: sha256:cd7b7d84011f63238d1370c4bf70219d5bb1d18800c9062e990b9650097aced9

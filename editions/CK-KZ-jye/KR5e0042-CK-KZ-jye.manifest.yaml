@@ -1,0 +1,6115 @@
+canonical_identifier: bkk:krp/KR5e0042/CK-KZ-jye/v1
+canonical_location: https://kanripo.org/bkk/KR5e0042/CK-KZ-jye/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 雲山集
+  date: '2015-08-29 02:08:26.660369'
+  source:
+    repository: kanripo
+    path: KR5e0042
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+  edition:
+    short: CK-KZ-jye
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR5e0042_000-CK-KZ-jye.yaml, hash: 'sha256:61844bd76cd1665660daeaac5ab43ac8bb88cbde61f04f8c72cb0d773a5893f7'}
+  - {seq: 1, filename: KR5e0042_001-CK-KZ-jye.yaml, hash: 'sha256:8cf1958d177ce5b993ec96b98b6d026761bfa3719462c543dc44b71680b18190'}
+  - {seq: 2, filename: KR5e0042_002-CK-KZ-jye.yaml, hash: 'sha256:d59bf9aea7d9b8c1c1442a508db32fade5618c27470ee40ed2b2ce3da5ed386e'}
+  - {seq: 3, filename: KR5e0042_003-CK-KZ-jye.yaml, hash: 'sha256:61777fdee1b01a0a57d785060876bda940bb67cdec9388f38af5df37199bcdf8'}
+  - {seq: 4, filename: KR5e0042_004-CK-KZ-jye.yaml, hash: 'sha256:f15b1d9b65dd833eb43d04c585f34774a4e673026800203fade1a630208902ee'}
+  - {seq: 5, filename: KR5e0042_005-CK-KZ-jye.yaml, hash: 'sha256:31036b83f7d309587bbad45d22c70cac8d92e9cea5356be25778c4248972991b'}
+  - {seq: 6, filename: KR5e0042_006-CK-KZ-jye.yaml, hash: 'sha256:e7d440f004dd1886f11e64b507c606afa69db1138baab358f40cdf1a0ba4aead'}
+  - {seq: 7, filename: KR5e0042_007-CK-KZ-jye.yaml, hash: 'sha256:5fcd2cbfa0299b53549eb9caab9e646f3a99dd6ebb57152553029154e52bb9c6'}
+  - {seq: 8, filename: KR5e0042_008-CK-KZ-jye.yaml, hash: 'sha256:354515ae3d4ef2b9675c8e6c42e27de335e73c6779f0c00487d8a340d7905d01'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR5e0042_000-CK-KZ-jye.markers.yaml, hash: 'sha256:3ee592151c3e89dc7da380ce7f2446272c44e7d8870eea23bd5c5c24bd51724e'}
+  - {seq: 1, role: markers, filename: assets/KR5e0042_001-CK-KZ-jye.markers.yaml, hash: 'sha256:14442c2e916bdc1708a50f678d052b478c8dc789d1d164ccc346d5e96460a8d4'}
+  - {seq: 2, role: markers, filename: assets/KR5e0042_002-CK-KZ-jye.markers.yaml, hash: 'sha256:dbffcf1ddfd7e33c6b5e373c4fec0b67dd8ac423b93c2a27b87ad51b5ac2c003'}
+  - {seq: 3, role: markers, filename: assets/KR5e0042_003-CK-KZ-jye.markers.yaml, hash: 'sha256:8a76959657eac851e696795653a2032b7e4f60ad7c9abf08510437f56a5c77ed'}
+  - {seq: 4, role: markers, filename: assets/KR5e0042_004-CK-KZ-jye.markers.yaml, hash: 'sha256:9edf189fe5ade0a240774dfebe017d279aecd70f73240b0c37508d09f994da2e'}
+  - {seq: 5, role: markers, filename: assets/KR5e0042_005-CK-KZ-jye.markers.yaml, hash: 'sha256:00f2e9cff4296280f02624b21337c8a8715d0eeed5cd327515fcf7dd1890c6a8'}
+  - {seq: 6, role: markers, filename: assets/KR5e0042_006-CK-KZ-jye.markers.yaml, hash: 'sha256:2c0769bf1afd85b09ee9c69062e8431a1d314cb6dc65c389153804ee321523d6'}
+  - {seq: 7, role: markers, filename: assets/KR5e0042_007-CK-KZ-jye.markers.yaml, hash: 'sha256:c4867d2060d3d18834ba4342b5723350991f8f90d01ac986fef7cd2f97a25c14'}
+  - {seq: 8, role: markers, filename: assets/KR5e0042_008-CK-KZ-jye.markers.yaml, hash: 'sha256:d79574e4cafd5aae8617eb4988afd5e6622ecaa8d43fc912d44b070e238f3e80'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR5e0042_CK-KZ-jye_000-h1
+    span:
+    - body
+    - 0
+    - 525
+  label: 雲山集序
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR5e0042_CK-KZ-jye_001-h2
+    span:
+    - body
+    - 0
+    - 0
+  label: 賦
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR5e0042_CK-KZ-jye_001-h3
+    span:
+    - body
+    - 0
+    - 492
+  label: 性賦
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR5e0042_CK-KZ-jye_001-h4
+    span:
+    - body
+    - 492
+    - 927
+  label: 心賦
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR5e0042_CK-KZ-jye_001-h5
+    span:
+    - body
+    - 927
+    - 927
+  label: 七言古調長篇¶<md:KR5e0042_HFL_001-004a>
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR5e0042_CK-KZ-jye_001-h6
+    span:
+    - body
+    - 927
+    - 1067
+  label: 悟空
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR5e0042_CK-KZ-jye_001-h7
+    span:
+    - body
+    - 1067
+    - 1179
+  label: 證怪惑
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR5e0042_CK-KZ-jye_001-h8
+    span:
+    - body
+    - 1179
+    - 1319
+  label: 證夢惑
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR5e0042_CK-KZ-jye_001-h9
+    span:
+    - body
+    - 1319
+    - 1436
+  label: 招隱
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR5e0042_CK-KZ-jye_001-h10
+    span:
+    - body
+    - 1436
+    - 1520
+  label: 偶成
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR5e0042_CK-KZ-jye_001-h11
+    span:
+    - body
+    - 1520
+    - 1660
+  label: 郭子淵之汴索詩
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR5e0042_CK-KZ-jye_001-h12
+    span:
+    - body
+    - 1660
+    - 1758
+  label: 與杜教授母慶八十
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR5e0042_CK-KZ-jye_001-h13
+    span:
+    - body
+    - 1758
+    - 1898
+  label: 祝眞常眞人壽¶<md:KR5e0042_HFL_001-007a>
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR5e0042_CK-KZ-jye_001-h14
+    span:
+    - body
+    - 1898
+    - 2038
+  label: 西嵓老靜廬中或生笋長數尺索詩¶<md:KR5e0042_HFL_001-007b>
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR5e0042_CK-KZ-jye_001-h15
+    span:
+    - body
+    - 2038
+    - 2178
+  label: 馮權教慶誕以壽山爲祝¶<md:KR5e0042_HFL_001-008a>
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR5e0042_CK-KZ-jye_001-h16
+    span:
+    - body
+    - 2178
+    - 2262
+  label: 跋非時桃花¶<md:KR5e0042_HFL_001-008b>
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR5e0042_CK-KZ-jye_001-h17
+    span:
+    - body
+    - 2262
+    - 2388
+  label: 寄路才卿
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR5e0042_CK-KZ-jye_001-h18
+    span:
+    - body
+    - 2388
+    - 2388
+  label: 五言古調長篇
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR5e0042_CK-KZ-jye_001-h19
+    span:
+    - body
+    - 2388
+    - 2488
+  label: 勉世
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR5e0042_CK-KZ-jye_001-h20
+    span:
+    - body
+    - 2488
+    - 2628
+  label: 寄道友論伯瑜
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR5e0042_CK-KZ-jye_001-h21
+    span:
+    - body
+    - 2628
+    - 2798
+  label: 住院
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR5e0042_CK-KZ-jye_001-h22
+    span:
+    - body
+    - 2798
+    - 2858
+  label: 幽居
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR5e0042_CK-KZ-jye_001-h23
+    span:
+    - body
+    - 2858
+    - 2968
+  label: 形幻
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR5e0042_CK-KZ-jye_001-h24
+    span:
+    - body
+    - 2968
+    - 3088
+  label: 世僞
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR5e0042_CK-KZ-jye_001-h25
+    span:
+    - body
+    - 3088
+    - 3228
+  label: 出觀
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR5e0042_CK-KZ-jye_001-h26
+    span:
+    - body
+    - 3228
+    - 3318
+  label: 法身
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR5e0042_CK-KZ-jye_001-h27
+    span:
+    - body
+    - 3318
+    - 3428
+  label: 壺天
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR5e0042_CK-KZ-jye_001-h28
+    span:
+    - body
+    - 3428
+    - 3536
+  label: 跋董節副黃糧夢手卷
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR5e0042_CK-KZ-jye_001-h29
+    span:
+    - body
+    - 3536
+    - 3616
+  label: 弔無欲眞人
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR5e0042_CK-KZ-jye_001-h30
+    span:
+    - body
+    - 3616
+    - 3736
+  label: 世事
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR5e0042_CK-KZ-jye_001-h31
+    span:
+    - body
+    - 3736
+    - 3790
+  label: 寄路才卿
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR5e0042_CK-KZ-jye_001-h32
+    span:
+    - body
+    - 3790
+    - 3860
+  label: 癸丑春送樊道錄赴闕
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR5e0042_CK-KZ-jye_001-h33
+    span:
+    - body
+    - 3860
+    - 3860
+  label: 七言律詩
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR5e0042_CK-KZ-jye_001-h34
+    span:
+    - body
+    - 3860
+    - 3916
+  label: 讚道
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR5e0042_CK-KZ-jye_001-h35
+    span:
+    - body
+    - 3916
+    - 3972
+  label: 慶長春
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR5e0042_CK-KZ-jye_001-h36
+    span:
+    - body
+    - 3972
+    - 4028
+  label: 乞紙被
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR5e0042_CK-KZ-jye_001-h37
+    span:
+    - body
+    - 4028
+    - 4084
+  label: 頃年欲作紙被今幸成之
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR5e0042_CK-KZ-jye_001-h38
+    span:
+    - body
+    - 4084
+    - 4140
+  label: 省迷
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR5e0042_CK-KZ-jye_001-h39
+    span:
+    - body
+    - 4140
+    - 4196
+  label: 又
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR5e0042_CK-KZ-jye_001-h40
+    span:
+    - body
+    - 4196
+    - 4252
+  label: 倦住持
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR5e0042_CK-KZ-jye_001-h41
+    span:
+    - body
+    - 4252
+    - 4308
+  label: 郭子淵北行索詩時在通州
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR5e0042_CK-KZ-jye_001-h42
+    span:
+    - body
+    - 4308
+    - 4364
+  label: 瑞雪
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR5e0042_CK-KZ-jye_001-h43
+    span:
+    - body
+    - 4364
+    - 4420
+  label: 打睡
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR5e0042_CK-KZ-jye_001-h44
+    span:
+    - body
+    - 4420
+    - 4476
+  label: 中秋
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR5e0042_CK-KZ-jye_001-h45
+    span:
+    - body
+    - 4476
+    - 4532
+  label: 月韜光
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR5e0042_CK-KZ-jye_001-h46
+    span:
+    - body
+    - 4532
+    - 4588
+  label: 覺夢
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR5e0042_CK-KZ-jye_001-h47
+    span:
+    - body
+    - 4588
+    - 4644
+  label: 希遇
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR5e0042_CK-KZ-jye_001-h48
+    span:
+    - body
+    - 4644
+    - 4700
+  label: 獨坐
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR5e0042_CK-KZ-jye_001-h49
+    span:
+    - body
+    - 4700
+    - 4756
+  label: 失己
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR5e0042_CK-KZ-jye_001-h50
+    span:
+    - body
+    - 4756
+    - 4812
+  label: 自照
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR5e0042_CK-KZ-jye_001-h51
+    span:
+    - body
+    - 4812
+    - 4868
+  label: 空代
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR5e0042_CK-KZ-jye_001-h52
+    span:
+    - body
+    - 4868
+    - 4924
+  label: 心迷
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR5e0042_CK-KZ-jye_001-h53
+    span:
+    - body
+    - 4924
+    - 4980
+  label: 初任長春觀
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR5e0042_CK-KZ-jye_001-h54
+    span:
+    - body
+    - 4980
+    - 5036
+  label: 舊隱
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR5e0042_CK-KZ-jye_001-h55
+    span:
+    - body
+    - 5036
+    - 5092
+  label: 迎將
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR5e0042_CK-KZ-jye_001-h56
+    span:
+    - body
+    - 5092
+    - 5148
+  label: 世情
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR5e0042_CK-KZ-jye_001-h57
+    span:
+    - body
+    - 5148
+    - 5204
+  label: 訪友
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR5e0042_CK-KZ-jye_001-h58
+    span:
+    - body
+    - 5204
+    - 5260
+  label: 同前
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR5e0042_CK-KZ-jye_001-h59
+    span:
+    - body
+    - 5260
+    - 5316
+  label: 遺言
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR5e0042_CK-KZ-jye_001-h60
+    span:
+    - body
+    - 5316
+    - 5372
+  label: 緘口
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR5e0042_CK-KZ-jye_001-h61
+    span:
+    - body
+    - 5372
+    - 5428
+  label: 著假
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR5e0042_CK-KZ-jye_001-h62
+    span:
+    - body
+    - 5428
+    - 5484
+  label: 化機
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR5e0042_CK-KZ-jye_001-h63
+    span:
+    - body
+    - 5484
+    - 5540
+  label: 襲明
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR5e0042_CK-KZ-jye_001-h64
+    span:
+    - body
+    - 5540
+    - 5596
+  label: 修行
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR5e0042_CK-KZ-jye_001-h65
+    span:
+    - body
+    - 5596
+    - 5652
+  label: 洗心
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR5e0042_CK-KZ-jye_001-h66
+    span:
+    - body
+    - 5652
+    - 5708
+  label: 無爭
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR5e0042_CK-KZ-jye_001-h67
+    span:
+    - body
+    - 5708
+    - 5708
+  label: 好爭
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR5e0042_CK-KZ-jye_002-h1
+    span:
+    - body
+    - 0
+    - 56
+  label: 隨流
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR5e0042_CK-KZ-jye_002-h2
+    span:
+    - body
+    - 56
+    - 112
+  label: 居山
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR5e0042_CK-KZ-jye_002-h3
+    span:
+    - body
+    - 112
+    - 168
+  label: 合俗
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR5e0042_CK-KZ-jye_002-h4
+    span:
+    - body
+    - 168
+    - 224
+  label: 參玄
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR5e0042_CK-KZ-jye_002-h5
+    span:
+    - body
+    - 224
+    - 280
+  label: 迷家
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR5e0042_CK-KZ-jye_002-h6
+    span:
+    - body
+    - 280
+    - 336
+  label: 獨行
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR5e0042_CK-KZ-jye_002-h7
+    span:
+    - body
+    - 336
+    - 392
+  label: 味眞
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR5e0042_CK-KZ-jye_002-h8
+    span:
+    - body
+    - 392
+    - 448
+  label: 形昧
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR5e0042_CK-KZ-jye_002-h9
+    span:
+    - body
+    - 448
+    - 504
+  label: 勞生
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR5e0042_CK-KZ-jye_002-h10
+    span:
+    - body
+    - 504
+    - 560
+  label: 邪見
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR5e0042_CK-KZ-jye_002-h11
+    span:
+    - body
+    - 560
+    - 616
+  label: 實德
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR5e0042_CK-KZ-jye_002-h12
+    span:
+    - body
+    - 616
+    - 672
+  label: 塵緣
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR5e0042_CK-KZ-jye_002-h13
+    span:
+    - body
+    - 672
+    - 728
+  label: 自藏
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR5e0042_CK-KZ-jye_002-h14
+    span:
+    - body
+    - 728
+    - 784
+  label: 像法
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR5e0042_CK-KZ-jye_002-h15
+    span:
+    - body
+    - 784
+    - 840
+  label: 教網
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR5e0042_CK-KZ-jye_002-h16
+    span:
+    - body
+    - 840
+    - 896
+  label: 趨時
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR5e0042_CK-KZ-jye_002-h17
+    span:
+    - body
+    - 896
+    - 952
+  label: 俗念
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR5e0042_CK-KZ-jye_002-h18
+    span:
+    - body
+    - 952
+    - 1008
+  label: 心亂
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR5e0042_CK-KZ-jye_002-h19
+    span:
+    - body
+    - 1008
+    - 1064
+  label: 妄作
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR5e0042_CK-KZ-jye_002-h20
+    span:
+    - body
+    - 1064
+    - 1120
+  label: 看經書
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR5e0042_CK-KZ-jye_002-h21
+    span:
+    - body
+    - 1120
+    - 1176
+  label: 黜聰明
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR5e0042_CK-KZ-jye_002-h22
+    span:
+    - body
+    - 1176
+    - 1232
+  label: 凡俗
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR5e0042_CK-KZ-jye_002-h23
+    span:
+    - body
+    - 1232
+    - 1288
+  label: 心醉
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR5e0042_CK-KZ-jye_002-h24
+    span:
+    - body
+    - 1288
+    - 1344
+  label: 赤窮
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR5e0042_CK-KZ-jye_002-h25
+    span:
+    - body
+    - 1344
+    - 1400
+  label: 從正
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR5e0042_CK-KZ-jye_002-h26
+    span:
+    - body
+    - 1400
+    - 1456
+  label: 實行
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR5e0042_CK-KZ-jye_002-h27
+    span:
+    - body
+    - 1456
+    - 1512
+  label: 眞功
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR5e0042_CK-KZ-jye_002-h28
+    span:
+    - body
+    - 1512
+    - 1568
+  label: 劉輔之有女之戚
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR5e0042_CK-KZ-jye_002-h29
+    span:
+    - body
+    - 1568
+    - 1624
+  label: 化空
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR5e0042_CK-KZ-jye_002-h30
+    span:
+    - body
+    - 1624
+    - 1680
+  label: 風波
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR5e0042_CK-KZ-jye_002-h31
+    span:
+    - body
+    - 1680
+    - 1736
+  label: 建化
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR5e0042_CK-KZ-jye_002-h32
+    span:
+    - body
+    - 1736
+    - 1792
+  label: 住院
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR5e0042_CK-KZ-jye_002-h33
+    span:
+    - body
+    - 1792
+    - 1848
+  label: 論經
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR5e0042_CK-KZ-jye_002-h34
+    span:
+    - body
+    - 1848
+    - 1904
+  label: 自縛
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR5e0042_CK-KZ-jye_002-h35
+    span:
+    - body
+    - 1904
+    - 1960
+  label: 法相
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR5e0042_CK-KZ-jye_002-h36
+    span:
+    - body
+    - 1960
+    - 2016
+  label: 壇場
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR5e0042_CK-KZ-jye_002-h37
+    span:
+    - body
+    - 2016
+    - 2072
+  label: 未濟
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR5e0042_CK-KZ-jye_002-h38
+    span:
+    - body
+    - 2072
+    - 2128
+  label: 悟眞
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR5e0042_CK-KZ-jye_002-h39
+    span:
+    - body
+    - 2128
+    - 2184
+  label: 甘貧
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR5e0042_CK-KZ-jye_002-h40
+    span:
+    - body
+    - 2184
+    - 2240
+  label: 法身
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR5e0042_CK-KZ-jye_002-h41
+    span:
+    - body
+    - 2240
+    - 2296
+  label: 忘外
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR5e0042_CK-KZ-jye_002-h42
+    span:
+    - body
+    - 2296
+    - 2352
+  label: 脫彀
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR5e0042_CK-KZ-jye_002-h43
+    span:
+    - body
+    - 2352
+    - 2408
+  label: 塵累
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR5e0042_CK-KZ-jye_002-h44
+    span:
+    - body
+    - 2408
+    - 2464
+  label: 疑網
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR5e0042_CK-KZ-jye_002-h45
+    span:
+    - body
+    - 2464
+    - 2520
+  label: 尋山
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR5e0042_CK-KZ-jye_002-h46
+    span:
+    - body
+    - 2520
+    - 2576
+  label: 遊仙人間
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR5e0042_CK-KZ-jye_002-h47
+    span:
+    - body
+    - 2576
+    - 2632
+  label: 訪五巖
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR5e0042_CK-KZ-jye_002-h48
+    span:
+    - body
+    - 2632
+    - 2688
+  label: 罷釣
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR5e0042_CK-KZ-jye_002-h49
+    span:
+    - body
+    - 2688
+    - 2744
+  label: 温邦瑞壽日
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR5e0042_CK-KZ-jye_002-h50
+    span:
+    - body
+    - 2744
+    - 2800
+  label: 偶遇
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR5e0042_CK-KZ-jye_002-h51
+    span:
+    - body
+    - 2800
+    - 2856
+  label: 自訟
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR5e0042_CK-KZ-jye_002-h52
+    span:
+    - body
+    - 2856
+    - 2912
+  label: 重陽日游瓊花島
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR5e0042_CK-KZ-jye_002-h53
+    span:
+    - body
+    - 2912
+    - 2968
+  label: 與金坡老餞行
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR5e0042_CK-KZ-jye_002-h54
+    span:
+    - body
+    - 2968
+    - 3024
+  label: 送張文叔之和林
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR5e0042_CK-KZ-jye_002-h55
+    span:
+    - body
+    - 3024
+    - 3080
+  label: 同前
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR5e0042_CK-KZ-jye_002-h56
+    span:
+    - body
+    - 3080
+    - 3136
+  label: 送何巨川從眞人赴闕
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR5e0042_CK-KZ-jye_002-h57
+    span:
+    - body
+    - 3136
+    - 3192
+  label: 同前
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR5e0042_CK-KZ-jye_002-h58
+    span:
+    - body
+    - 3192
+    - 3248
+  label: 北宮懷古
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR5e0042_CK-KZ-jye_002-h59
+    span:
+    - body
+    - 3248
+    - 3304
+  label: 秋遊瓊花島
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR5e0042_CK-KZ-jye_002-h60
+    span:
+    - body
+    - 3304
+    - 3360
+  label: 同前
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR5e0042_CK-KZ-jye_002-h61
+    span:
+    - body
+    - 3360
+    - 3416
+  label: 憶故宮
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR5e0042_CK-KZ-jye_002-h62
+    span:
+    - body
+    - 3416
+    - 3472
+  label: 西華園
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR5e0042_CK-KZ-jye_002-h63
+    span:
+    - body
+    - 3472
+    - 3528
+  label: 燕然感舊
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR5e0042_CK-KZ-jye_002-h64
+    span:
+    - body
+    - 3528
+    - 3584
+  label: 悼郝講師
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR5e0042_CK-KZ-jye_002-h65
+    span:
+    - body
+    - 3584
+    - 3640
+  label: 宿五華山
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR5e0042_CK-KZ-jye_002-h66
+    span:
+    - body
+    - 3640
+    - 3696
+  label: 眞性
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR5e0042_CK-KZ-jye_002-h67
+    span:
+    - body
+    - 3696
+    - 3752
+  label: 客有錦囊貯鳳喙以示人
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR5e0042_CK-KZ-jye_002-h68
+    span:
+    - body
+    - 3752
+    - 3808
+  label: 同前
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR5e0042_CK-KZ-jye_002-h69
+    span:
+    - body
+    - 3808
+    - 3864
+  label: 送曳刺使赴闕
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR5e0042_CK-KZ-jye_002-h70
+    span:
+    - body
+    - 3864
+    - 3920
+  label: 祝清和眞人壽
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR5e0042_CK-KZ-jye_002-h71
+    span:
+    - body
+    - 3920
+    - 3976
+  label: 顏盞大師九月五日壽
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR5e0042_CK-KZ-jye_002-h72
+    span:
+    - body
+    - 3976
+    - 4032
+  label: 送賈講師之東平
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR5e0042_CK-KZ-jye_002-h73
+    span:
+    - body
+    - 4032
+    - 4088
+  label: 和楊西菴韻
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR5e0042_CK-KZ-jye_002-h74
+    span:
+    - body
+    - 4088
+    - 4144
+  label: 同前
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR5e0042_CK-KZ-jye_002-h75
+    span:
+    - body
+    - 4144
+    - 4200
+  label: 送彭宗道從師北行
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR5e0042_CK-KZ-jye_002-h76
+    span:
+    - body
+    - 4200
+    - 4256
+  label: 送崔庭玉赴闕
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR5e0042_CK-KZ-jye_002-h77
+    span:
+    - body
+    - 4256
+    - 4312
+  label: 送趙子眞送藏經于朝廷
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR5e0042_CK-KZ-jye_002-h78
+    span:
+    - body
+    - 4312
+    - 4368
+  label: 悼郭超然
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR5e0042_CK-KZ-jye_002-h79
+    span:
+    - body
+    - 4368
+    - 4424
+  label: 送王大師赴闕
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR5e0042_CK-KZ-jye_002-h80
+    span:
+    - body
+    - 4424
+    - 4480
+  label: 題遇仙宫活死人墓
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR5e0042_CK-KZ-jye_002-h81
+    span:
+    - body
+    - 4480
+    - 4536
+  label: 送潘提點之永樂
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR5e0042_CK-KZ-jye_002-h82
+    span:
+    - body
+    - 4536
+    - 4592
+  label: 送李和甫歸秦
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR5e0042_CK-KZ-jye_002-h83
+    span:
+    - body
+    - 4592
+    - 4648
+  label: 送杜天甫歸終南
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR5e0042_CK-KZ-jye_002-h84
+    span:
+    - body
+    - 4648
+    - 4704
+  label: 弔馮權教
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR5e0042_CK-KZ-jye_002-h85
+    span:
+    - body
+    - 4704
+    - 4760
+  label: 送何巨川之祖庭
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR5e0042_CK-KZ-jye_002-h86
+    span:
+    - body
+    - 4760
+    - 4816
+  label: 紫峯老師南行
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR5e0042_CK-KZ-jye_002-h87
+    span:
+    - body
+    - 4816
+    - 4872
+  label: 同前
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR5e0042_CK-KZ-jye_002-h88
+    span:
+    - body
+    - 4872
+    - 4928
+  label: 老子過關圖
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR5e0042_CK-KZ-jye_002-h89
+    span:
+    - body
+    - 4928
+    - 4984
+  label: 悼張文叔和林返眞
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR5e0042_CK-KZ-jye_002-h90
+    span:
+    - body
+    - 4984
+    - 5040
+  label: 送左法師赴闕
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR5e0042_CK-KZ-jye_002-h91
+    span:
+    - body
+    - 5040
+    - 5096
+  label: 餞趙法師赴闕
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR5e0042_CK-KZ-jye_002-h92
+    span:
+    - body
+    - 5096
+    - 5152
+  label: 弔順天府賈左副
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR5e0042_CK-KZ-jye_002-h93
+    span:
+    - body
+    - 5152
+    - 5208
+  label: 别李府判
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR5e0042_CK-KZ-jye_002-h94
+    span:
+    - body
+    - 5208
+    - 5264
+  label: 于公大師挽詞
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR5e0042_CK-KZ-jye_002-h95
+    span:
+    - body
+    - 5264
+    - 5320
+  label: 警世
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR5e0042_CK-KZ-jye_002-h96
+    span:
+    - body
+    - 5320
+    - 5376
+  label: 天網
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR5e0042_CK-KZ-jye_002-h97
+    span:
+    - body
+    - 5376
+    - 5432
+  label: 寄南宮舊友
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR5e0042_CK-KZ-jye_002-h98
+    span:
+    - body
+    - 5432
+    - 5488
+  label: 同前
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR5e0042_CK-KZ-jye_002-h99
+    span:
+    - body
+    - 5488
+    - 5544
+  label: 跋眞理融會堂
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR5e0042_CK-KZ-jye_002-h100
+    span:
+    - body
+    - 5544
+    - 5600
+  label: 同前
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR5e0042_CK-KZ-jye_002-h101
+    span:
+    - body
+    - 5600
+    - 5656
+  label: 跋坐忘圖
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR5e0042_CK-KZ-jye_002-h102
+    span:
+    - body
+    - 5656
+    - 5712
+  label: 誠齋
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR5e0042_CK-KZ-jye_002-h103
+    span:
+    - body
+    - 5712
+    - 5768
+  label: 三山閑適
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR5e0042_CK-KZ-jye_002-h104
+    span:
+    - body
+    - 5768
+    - 5824
+  label: 化工
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR5e0042_CK-KZ-jye_002-h105
+    span:
+    - body
+    - 5824
+    - 5880
+  label: 造物
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR5e0042_CK-KZ-jye_002-h106
+    span:
+    - body
+    - 5880
+    - 5936
+  label: 繼董德卿韻
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR5e0042_CK-KZ-jye_002-h107
+    span:
+    - body
+    - 5936
+    - 5984
+  label: 憶三山時在燕京長春宮
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR5e0042_CK-KZ-jye_003-h1
+    span:
+    - body
+    - 0
+    - 0
+  label: 五言律詩
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR5e0042_CK-KZ-jye_003-h2
+    span:
+    - body
+    - 0
+    - 40
+  label: 道性
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR5e0042_CK-KZ-jye_003-h3
+    span:
+    - body
+    - 40
+    - 80
+  label: 稟受
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR5e0042_CK-KZ-jye_003-h4
+    span:
+    - body
+    - 80
+    - 120
+  label: 祛邪
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR5e0042_CK-KZ-jye_003-h5
+    span:
+    - body
+    - 120
+    - 160
+  label: 求眞
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR5e0042_CK-KZ-jye_003-h6
+    span:
+    - body
+    - 160
+    - 200
+  label: 委形¶<md:KR5e0042_HFL_003-002a>
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR5e0042_CK-KZ-jye_003-h7
+    span:
+    - body
+    - 200
+    - 240
+  label: 是非
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR5e0042_CK-KZ-jye_003-h8
+    span:
+    - body
+    - 240
+    - 280
+  label: 塵世
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR5e0042_CK-KZ-jye_003-h9
+    span:
+    - body
+    - 280
+    - 320
+  label: 大身
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR5e0042_CK-KZ-jye_003-h10
+    span:
+    - body
+    - 320
+    - 360
+  label: 夜坐
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR5e0042_CK-KZ-jye_003-h11
+    span:
+    - body
+    - 360
+    - 400
+  label: 清淡¶<md:KR5e0042_HFL_003-003a>
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR5e0042_CK-KZ-jye_003-h12
+    span:
+    - body
+    - 400
+    - 440
+  label: 疎懶
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR5e0042_CK-KZ-jye_003-h13
+    span:
+    - body
+    - 440
+    - 480
+  label: 觀中
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR5e0042_CK-KZ-jye_003-h14
+    span:
+    - body
+    - 480
+    - 520
+  label: 丈室
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR5e0042_CK-KZ-jye_003-h15
+    span:
+    - body
+    - 520
+    - 560
+  label: 世事
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR5e0042_CK-KZ-jye_003-h16
+    span:
+    - body
+    - 560
+    - 600
+  label: 雲遊¶<md:KR5e0042_HFL_003-004a>
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR5e0042_CK-KZ-jye_003-h17
+    span:
+    - body
+    - 600
+    - 640
+  label: 憶山
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR5e0042_CK-KZ-jye_003-h18
+    span:
+    - body
+    - 640
+    - 680
+  label: 安閑
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR5e0042_CK-KZ-jye_003-h19
+    span:
+    - body
+    - 680
+    - 720
+  label: 紙被
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR5e0042_CK-KZ-jye_003-h20
+    span:
+    - body
+    - 720
+    - 720
+  label: 紫微東墅因寄一十二詠
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR5e0042_CK-KZ-jye_003-h21
+    span:
+    - body
+    - 720
+    - 760
+  label: 春
+  type: section
+  level: 4
+- ref:
+    seq: 3
+    marker_id: KR5e0042_CK-KZ-jye_003-h22
+    span:
+    - body
+    - 760
+    - 800
+  label: 夏
+  type: section
+  level: 4
+- ref:
+    seq: 3
+    marker_id: KR5e0042_CK-KZ-jye_003-h23
+    span:
+    - body
+    - 800
+    - 840
+  label: 秋
+  type: section
+  level: 4
+- ref:
+    seq: 3
+    marker_id: KR5e0042_CK-KZ-jye_003-h24
+    span:
+    - body
+    - 840
+    - 880
+  label: 冬
+  type: section
+  level: 4
+- ref:
+    seq: 3
+    marker_id: KR5e0042_CK-KZ-jye_003-h25
+    span:
+    - body
+    - 880
+    - 920
+  label: 晝
+  type: section
+  level: 4
+- ref:
+    seq: 3
+    marker_id: KR5e0042_CK-KZ-jye_003-h26
+    span:
+    - body
+    - 920
+    - 960
+  label: 夜
+  type: section
+  level: 4
+- ref:
+    seq: 3
+    marker_id: KR5e0042_CK-KZ-jye_003-h27
+    span:
+    - body
+    - 960
+    - 1000
+  label: 朝
+  type: section
+  level: 4
+- ref:
+    seq: 3
+    marker_id: KR5e0042_CK-KZ-jye_003-h28
+    span:
+    - body
+    - 1000
+    - 1040
+  label: 暮
+  type: section
+  level: 4
+- ref:
+    seq: 3
+    marker_id: KR5e0042_CK-KZ-jye_003-h29
+    span:
+    - body
+    - 1040
+    - 1080
+  label: 行
+  type: section
+  level: 4
+- ref:
+    seq: 3
+    marker_id: KR5e0042_CK-KZ-jye_003-h30
+    span:
+    - body
+    - 1080
+    - 1120
+  label: 住
+  type: section
+  level: 4
+- ref:
+    seq: 3
+    marker_id: KR5e0042_CK-KZ-jye_003-h31
+    span:
+    - body
+    - 1120
+    - 1160
+  label: 坐
+  type: section
+  level: 4
+- ref:
+    seq: 3
+    marker_id: KR5e0042_CK-KZ-jye_003-h32
+    span:
+    - body
+    - 1160
+    - 1200
+  label: 南華
+  type: section
+  level: 4
+- ref:
+    seq: 3
+    marker_id: KR5e0042_CK-KZ-jye_003-h33
+    span:
+    - body
+    - 1200
+    - 1240
+  label: 清況
+  type: section
+  level: 4
+- ref:
+    seq: 3
+    marker_id: KR5e0042_CK-KZ-jye_003-h34
+    span:
+    - body
+    - 1240
+    - 1280
+  label: 莫辨
+  type: section
+  level: 4
+- ref:
+    seq: 3
+    marker_id: KR5e0042_CK-KZ-jye_003-h35
+    span:
+    - body
+    - 1280
+    - 1320
+  label: 繼董德卿韻
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR5e0042_CK-KZ-jye_003-h36
+    span:
+    - body
+    - 1320
+    - 1320
+  label: 繼眞人天籟韻
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR5e0042_CK-KZ-jye_003-h37
+    span:
+    - body
+    - 1320
+    - 1360
+  label: 其一
+  type: section
+  level: 4
+- ref:
+    seq: 3
+    marker_id: KR5e0042_CK-KZ-jye_003-h38
+    span:
+    - body
+    - 1360
+    - 1400
+  label: 其二
+  type: section
+  level: 4
+- ref:
+    seq: 3
+    marker_id: KR5e0042_CK-KZ-jye_003-h39
+    span:
+    - body
+    - 1400
+    - 1440
+  label: 知常自傳神贊
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR5e0042_CK-KZ-jye_003-h40
+    span:
+    - body
+    - 1440
+    - 1440
+  label: 長短句¶<md:KR5e0042_HFL_003-008b>
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR5e0042_CK-KZ-jye_003-h41
+    span:
+    - body
+    - 1440
+    - 1478
+  label: 曰用
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR5e0042_CK-KZ-jye_003-h42
+    span:
+    - body
+    - 1478
+    - 1540
+  label: 性命
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR5e0042_CK-KZ-jye_003-h43
+    span:
+    - body
+    - 1540
+    - 1580
+  label: 全眞¶<md:KR5e0042_HFL_003-009a>
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR5e0042_CK-KZ-jye_003-h44
+    span:
+    - body
+    - 1580
+    - 1608
+  label: 玄妙
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR5e0042_CK-KZ-jye_003-h45
+    span:
+    - body
+    - 1608
+    - 1638
+  label: 眞空
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR5e0042_CK-KZ-jye_003-h46
+    span:
+    - body
+    - 1638
+    - 1668
+  label: 沖和¶<md:KR5e0042_HFL_003-009b>
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR5e0042_CK-KZ-jye_003-h47
+    span:
+    - body
+    - 1668
+    - 1719
+  label: 精神
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR5e0042_CK-KZ-jye_003-h48
+    span:
+    - body
+    - 1719
+    - 1753
+  label: 無爲
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR5e0042_CK-KZ-jye_003-h49
+    span:
+    - body
+    - 1753
+    - 1793
+  label: 識心¶<md:KR5e0042_HFL_003-010a>
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR5e0042_CK-KZ-jye_003-h50
+    span:
+    - body
+    - 1793
+    - 1836
+  label: 見性
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR5e0042_CK-KZ-jye_003-h51
+    span:
+    - body
+    - 1836
+    - 1864
+  label: 魂魄
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR5e0042_CK-KZ-jye_003-h52
+    span:
+    - body
+    - 1864
+    - 1906
+  label: 覺照
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR5e0042_CK-KZ-jye_003-h53
+    span:
+    - body
+    - 1906
+    - 1932
+  label: 藏天下於天下
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR5e0042_CK-KZ-jye_003-h54
+    span:
+    - body
+    - 1932
+    - 1982
+  label: 體用
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR5e0042_CK-KZ-jye_003-h55
+    span:
+    - body
+    - 1982
+    - 2020
+  label: 無人無我
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR5e0042_CK-KZ-jye_003-h56
+    span:
+    - body
+    - 2020
+    - 2068
+  label: 孤峯
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR5e0042_CK-KZ-jye_003-h57
+    span:
+    - body
+    - 2068
+    - 2122
+  label: 生死¶<md:KR5e0042_HFL_003-011b>
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR5e0042_CK-KZ-jye_003-h58
+    span:
+    - body
+    - 2122
+    - 2189
+  label: 主賓
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR5e0042_CK-KZ-jye_003-h59
+    span:
+    - body
+    - 2189
+    - 2231
+  label: 客人扇頭
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR5e0042_CK-KZ-jye_003-h60
+    span:
+    - body
+    - 2231
+    - 2231
+  label: 七言絕句
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR5e0042_CK-KZ-jye_003-h61
+    span:
+    - body
+    - 2231
+    - 2259
+  label: 勉進三首
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR5e0042_CK-KZ-jye_003-h62
+    span:
+    - body
+    - 2259
+    - 2287
+  label: 同前
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR5e0042_CK-KZ-jye_003-h63
+    span:
+    - body
+    - 2287
+    - 2315
+  label: 同前
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR5e0042_CK-KZ-jye_003-h64
+    span:
+    - body
+    - 2315
+    - 2343
+  label: 迷家
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR5e0042_CK-KZ-jye_003-h65
+    span:
+    - body
+    - 2343
+    - 2371
+  label: 忘本
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR5e0042_CK-KZ-jye_003-h66
+    span:
+    - body
+    - 2371
+    - 2399
+  label: 夜闌
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR5e0042_CK-KZ-jye_003-h67
+    span:
+    - body
+    - 2399
+    - 2427
+  label: 芳春
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR5e0042_CK-KZ-jye_003-h68
+    span:
+    - body
+    - 2427
+    - 2455
+  label: 長春
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR5e0042_CK-KZ-jye_003-h69
+    span:
+    - body
+    - 2455
+    - 2483
+  label: 見妄¶<md:KR5e0042_HFL_003-013b>
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR5e0042_CK-KZ-jye_003-h70
+    span:
+    - body
+    - 2483
+    - 2511
+  label: 迹弊
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR5e0042_CK-KZ-jye_003-h71
+    span:
+    - body
+    - 2511
+    - 2539
+  label: 贊毁
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR5e0042_CK-KZ-jye_003-h72
+    span:
+    - body
+    - 2539
+    - 2567
+  label: 知迷
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR5e0042_CK-KZ-jye_003-h73
+    span:
+    - body
+    - 2567
+    - 2595
+  label: 自得
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR5e0042_CK-KZ-jye_003-h74
+    span:
+    - body
+    - 2595
+    - 2623
+  label: 一氣
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR5e0042_CK-KZ-jye_003-h75
+    span:
+    - body
+    - 2623
+    - 2651
+  label: 心田
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR5e0042_CK-KZ-jye_003-h76
+    span:
+    - body
+    - 2651
+    - 2679
+  label: 心花
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR5e0042_CK-KZ-jye_003-h77
+    span:
+    - body
+    - 2679
+    - 2707
+  label: 心符
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR5e0042_CK-KZ-jye_003-h78
+    span:
+    - body
+    - 2707
+    - 2735
+  label: 心月
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR5e0042_CK-KZ-jye_003-h79
+    span:
+    - body
+    - 2735
+    - 2763
+  label: 心香¶<md:KR5e0042_HFL_003-015a>
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR5e0042_CK-KZ-jye_003-h80
+    span:
+    - body
+    - 2763
+    - 2791
+  label: 心琴
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR5e0042_CK-KZ-jye_003-h81
+    span:
+    - body
+    - 2791
+    - 2819
+  label: 心劍
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR5e0042_CK-KZ-jye_003-h82
+    span:
+    - body
+    - 2819
+    - 2847
+  label: 心鏡
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR5e0042_CK-KZ-jye_003-h83
+    span:
+    - body
+    - 2847
+    - 2875
+  label: 心珠
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR5e0042_CK-KZ-jye_003-h84
+    span:
+    - body
+    - 2875
+    - 2903
+  label: 心燈
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR5e0042_CK-KZ-jye_003-h85
+    span:
+    - body
+    - 2903
+    - 2931
+  label: 貴默
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR5e0042_CK-KZ-jye_003-h86
+    span:
+    - body
+    - 2931
+    - 2959
+  label: 浮生
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR5e0042_CK-KZ-jye_003-h87
+    span:
+    - body
+    - 2959
+    - 2987
+  label: 自悔
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR5e0042_CK-KZ-jye_003-h88
+    span:
+    - body
+    - 2987
+    - 3015
+  label: 原憲責賜圖跋
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR5e0042_CK-KZ-jye_003-h89
+    span:
+    - body
+    - 3015
+    - 3043
+  label: 無情¶<md:KR5e0042_HFL_003-016b>
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR5e0042_CK-KZ-jye_003-h90
+    span:
+    - body
+    - 3043
+    - 3071
+  label: 元初
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR5e0042_CK-KZ-jye_003-h91
+    span:
+    - body
+    - 3071
+    - 3099
+  label: 安閑
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR5e0042_CK-KZ-jye_003-h92
+    span:
+    - body
+    - 3099
+    - 3127
+  label: 從分
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR5e0042_CK-KZ-jye_003-h93
+    span:
+    - body
+    - 3127
+    - 3155
+  label: 平懷
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR5e0042_CK-KZ-jye_003-h94
+    span:
+    - body
+    - 3155
+    - 3183
+  label: 本分
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR5e0042_CK-KZ-jye_003-h95
+    span:
+    - body
+    - 3183
+    - 3211
+  label: 自觀
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR5e0042_CK-KZ-jye_003-h96
+    span:
+    - body
+    - 3211
+    - 3239
+  label: 無心
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR5e0042_CK-KZ-jye_003-h97
+    span:
+    - body
+    - 3239
+    - 3267
+  label: 懶惰
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR5e0042_CK-KZ-jye_003-h98
+    span:
+    - body
+    - 3267
+    - 3295
+  label: 仙凡
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR5e0042_CK-KZ-jye_003-h99
+    span:
+    - body
+    - 3295
+    - 3323
+  label: 玄門¶<md:KR5e0042_HFL_003-018a>
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR5e0042_CK-KZ-jye_003-h100
+    span:
+    - body
+    - 3323
+    - 3351
+  label: 物假
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR5e0042_CK-KZ-jye_003-h101
+    span:
+    - body
+    - 3351
+    - 3379
+  label: 遁化
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR5e0042_CK-KZ-jye_003-h102
+    span:
+    - body
+    - 3379
+    - 3407
+  label: 默契
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR5e0042_CK-KZ-jye_003-h103
+    span:
+    - body
+    - 3407
+    - 3435
+  label: 拂塵
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR5e0042_CK-KZ-jye_003-h104
+    span:
+    - body
+    - 3435
+    - 3463
+  label: 空虛
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR5e0042_CK-KZ-jye_003-h105
+    span:
+    - body
+    - 3463
+    - 3491
+  label: 形數
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR5e0042_CK-KZ-jye_003-h106
+    span:
+    - body
+    - 3491
+    - 3519
+  label: 放心
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR5e0042_CK-KZ-jye_003-h107
+    span:
+    - body
+    - 3519
+    - 3547
+  label: 治心
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR5e0042_CK-KZ-jye_003-h108
+    span:
+    - body
+    - 3547
+    - 3575
+  label: 長生
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR5e0042_CK-KZ-jye_003-h109
+    span:
+    - body
+    - 3575
+    - 3603
+  label: 生滅¶<md:KR5e0042_HFL_003-019b>
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR5e0042_CK-KZ-jye_003-h110
+    span:
+    - body
+    - 3603
+    - 3631
+  label: 求己
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR5e0042_CK-KZ-jye_003-h111
+    span:
+    - body
+    - 3631
+    - 3659
+  label: 閑居
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR5e0042_CK-KZ-jye_003-h112
+    span:
+    - body
+    - 3659
+    - 3687
+  label: 拈舊
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR5e0042_CK-KZ-jye_003-h113
+    span:
+    - body
+    - 3687
+    - 3715
+  label: 塵境
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR5e0042_CK-KZ-jye_003-h114
+    span:
+    - body
+    - 3715
+    - 3743
+  label: 形微
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR5e0042_CK-KZ-jye_003-h115
+    span:
+    - body
+    - 3743
+    - 3771
+  label: 說礙
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR5e0042_CK-KZ-jye_003-h116
+    span:
+    - body
+    - 3771
+    - 3799
+  label: 脫網
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR5e0042_CK-KZ-jye_003-h117
+    span:
+    - body
+    - 3799
+    - 3827
+  label: 獨坐
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR5e0042_CK-KZ-jye_003-h118
+    span:
+    - body
+    - 3827
+    - 3855
+  label: 守愚
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR5e0042_CK-KZ-jye_003-h119
+    span:
+    - body
+    - 3855
+    - 3883
+  label: 坐久¶<md:KR5e0042_HFL_003-021a>
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR5e0042_CK-KZ-jye_003-h120
+    span:
+    - body
+    - 3883
+    - 3911
+  label: 守拙
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR5e0042_CK-KZ-jye_003-h121
+    span:
+    - body
+    - 3911
+    - 3939
+  label: 草堂
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR5e0042_CK-KZ-jye_003-h122
+    span:
+    - body
+    - 3939
+    - 3967
+  label: 驚世
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR5e0042_CK-KZ-jye_003-h123
+    span:
+    - body
+    - 3967
+    - 3995
+  label: 虛生
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR5e0042_CK-KZ-jye_003-h124
+    span:
+    - body
+    - 3995
+    - 4023
+  label: 安生
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR5e0042_CK-KZ-jye_003-h125
+    span:
+    - body
+    - 4023
+    - 4051
+  label: 著物
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR5e0042_CK-KZ-jye_003-h126
+    span:
+    - body
+    - 4051
+    - 4079
+  label: 逐境
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR5e0042_CK-KZ-jye_003-h127
+    span:
+    - body
+    - 4079
+    - 4107
+  label: 名利
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR5e0042_CK-KZ-jye_003-h128
+    span:
+    - body
+    - 4107
+    - 4135
+  label: 客至
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR5e0042_CK-KZ-jye_003-h129
+    span:
+    - body
+    - 4135
+    - 4163
+  label: 靜度¶<md:KR5e0042_HFL_003-022b>
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR5e0042_CK-KZ-jye_003-h130
+    span:
+    - body
+    - 4163
+    - 4191
+  label: 蛻塵
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR5e0042_CK-KZ-jye_003-h131
+    span:
+    - body
+    - 4191
+    - 4219
+  label: 不知
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR5e0042_CK-KZ-jye_003-h132
+    span:
+    - body
+    - 4219
+    - 4247
+  label: 機密
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR5e0042_CK-KZ-jye_003-h133
+    span:
+    - body
+    - 4247
+    - 4275
+  label: 復全
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR5e0042_CK-KZ-jye_003-h134
+    span:
+    - body
+    - 4275
+    - 4303
+  label: 居山
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR5e0042_CK-KZ-jye_003-h135
+    span:
+    - body
+    - 4303
+    - 4511
+  label: 南華九天
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR5e0042_CK-KZ-jye_004-h1
+    span:
+    - body
+    - 0
+    - 28
+  label: 釣空
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR5e0042_CK-KZ-jye_004-h2
+    span:
+    - body
+    - 28
+    - 56
+  label: 眞樂
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR5e0042_CK-KZ-jye_004-h3
+    span:
+    - body
+    - 56
+    - 84
+  label: 友山
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR5e0042_CK-KZ-jye_004-h4
+    span:
+    - body
+    - 84
+    - 112
+  label: 養性
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR5e0042_CK-KZ-jye_004-h5
+    span:
+    - body
+    - 112
+    - 140
+  label: 夜月
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR5e0042_CK-KZ-jye_004-h6
+    span:
+    - body
+    - 140
+    - 168
+  label: 駘蕩
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR5e0042_CK-KZ-jye_004-h7
+    span:
+    - body
+    - 168
+    - 196
+  label: 玉簪
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR5e0042_CK-KZ-jye_004-h8
+    span:
+    - body
+    - 196
+    - 224
+  label: 有詩
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR5e0042_CK-KZ-jye_004-h9
+    span:
+    - body
+    - 224
+    - 252
+  label: 春(盤山四詠)
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR5e0042_CK-KZ-jye_004-h10
+    span:
+    - body
+    - 252
+    - 280
+  label: 夏
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR5e0042_CK-KZ-jye_004-h11
+    span:
+    - body
+    - 280
+    - 308
+  label: 秋
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR5e0042_CK-KZ-jye_004-h12
+    span:
+    - body
+    - 308
+    - 336
+  label: 冬
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR5e0042_CK-KZ-jye_004-h13
+    span:
+    - body
+    - 336
+    - 364
+  label: 滯坐
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR5e0042_CK-KZ-jye_004-h14
+    span:
+    - body
+    - 364
+    - 392
+  label: 遁身
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR5e0042_CK-KZ-jye_004-h15
+    span:
+    - body
+    - 392
+    - 392
+  label: 動靜贈許紹明二首
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR5e0042_CK-KZ-jye_004-h16
+    span:
+    - body
+    - 392
+    - 420
+  label: 其一
+  type: section
+  level: 4
+- ref:
+    seq: 4
+    marker_id: KR5e0042_CK-KZ-jye_004-h17
+    span:
+    - body
+    - 420
+    - 448
+  label: 其二
+  type: section
+  level: 4
+- ref:
+    seq: 4
+    marker_id: KR5e0042_CK-KZ-jye_004-h18
+    span:
+    - body
+    - 448
+    - 476
+  label: 同前
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR5e0042_CK-KZ-jye_004-h19
+    span:
+    - body
+    - 476
+    - 504
+  label: 釣歸
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR5e0042_CK-KZ-jye_004-h20
+    span:
+    - body
+    - 504
+    - 532
+  label: 同前
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR5e0042_CK-KZ-jye_004-h21
+    span:
+    - body
+    - 532
+    - 560
+  label: 性月
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR5e0042_CK-KZ-jye_004-h22
+    span:
+    - body
+    - 560
+    - 588
+  label: 警世
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR5e0042_CK-KZ-jye_004-h23
+    span:
+    - body
+    - 588
+    - 616
+  label: 心機
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR5e0042_CK-KZ-jye_004-h24
+    span:
+    - body
+    - 616
+    - 644
+  label: 百歲¶<md:KR5e0042_HFL_004-004b>
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR5e0042_CK-KZ-jye_004-h25
+    span:
+    - body
+    - 644
+    - 672
+  label: 閻老
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR5e0042_CK-KZ-jye_004-h26
+    span:
+    - body
+    - 672
+    - 700
+  label: 林泉
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR5e0042_CK-KZ-jye_004-h27
+    span:
+    - body
+    - 700
+    - 728
+  label: 閑人
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR5e0042_CK-KZ-jye_004-h28
+    span:
+    - body
+    - 728
+    - 756
+  label: 修眞
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR5e0042_CK-KZ-jye_004-h29
+    span:
+    - body
+    - 756
+    - 784
+  label: 神仙
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR5e0042_CK-KZ-jye_004-h30
+    span:
+    - body
+    - 784
+    - 812
+  label: 延年
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR5e0042_CK-KZ-jye_004-h31
+    span:
+    - body
+    - 812
+    - 840
+  label: 誦經
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR5e0042_CK-KZ-jye_004-h32
+    span:
+    - body
+    - 840
+    - 868
+  label: 夢蝶
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR5e0042_CK-KZ-jye_004-h33
+    span:
+    - body
+    - 868
+    - 896
+  label: 夔蚿
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR5e0042_CK-KZ-jye_004-h34
+    span:
+    - body
+    - 896
+    - 924
+  label: 濠梁¶<md:KR5e0042_HFL_004-006a>
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR5e0042_CK-KZ-jye_004-h35
+    span:
+    - body
+    - 924
+    - 952
+  label: 解牛
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR5e0042_CK-KZ-jye_004-h36
+    span:
+    - body
+    - 952
+    - 980
+  label: 牧馬
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR5e0042_CK-KZ-jye_004-h37
+    span:
+    - body
+    - 980
+    - 1008
+  label: 養雞
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR5e0042_CK-KZ-jye_004-h38
+    span:
+    - body
+    - 1008
+    - 1036
+  label: 承蜩
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR5e0042_CK-KZ-jye_004-h39
+    span:
+    - body
+    - 1036
+    - 1064
+  label: 狎鷗
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR5e0042_CK-KZ-jye_004-h40
+    span:
+    - body
+    - 1064
+    - 1092
+  label: 養虎
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR5e0042_CK-KZ-jye_004-h41
+    span:
+    - body
+    - 1092
+    - 1120
+  label: 節猿
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR5e0042_CK-KZ-jye_004-h42
+    span:
+    - body
+    - 1120
+    - 1148
+  label: 蠻觸
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR5e0042_CK-KZ-jye_004-h43
+    span:
+    - body
+    - 1148
+    - 1176
+  label: 木鴈
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR5e0042_CK-KZ-jye_004-h44
+    span:
+    - body
+    - 1176
+    - 1204
+  label: 釣鯨¶<md:KR5e0042_HFL_004-007b>
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR5e0042_CK-KZ-jye_004-h45
+    span:
+    - body
+    - 1204
+    - 1232
+  label: 拂子
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR5e0042_CK-KZ-jye_004-h46
+    span:
+    - body
+    - 1232
+    - 1260
+  label: 梭扇
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR5e0042_CK-KZ-jye_004-h47
+    span:
+    - body
+    - 1260
+    - 1288
+  label: 自解
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR5e0042_CK-KZ-jye_004-h48
+    span:
+    - body
+    - 1288
+    - 1316
+  label: 道經(或云道家無經止五千言而已故作詩以咄之)
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR5e0042_CK-KZ-jye_004-h49
+    span:
+    - body
+    - 1316
+    - 1343
+  label: 種蓮
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR5e0042_CK-KZ-jye_004-h50
+    span:
+    - body
+    - 1343
+    - 1371
+  label: 三宜
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR5e0042_CK-KZ-jye_004-h51
+    span:
+    - body
+    - 1371
+    - 1399
+  label: 幻化
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR5e0042_CK-KZ-jye_004-h52
+    span:
+    - body
+    - 1399
+    - 1427
+  label: 化機
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR5e0042_CK-KZ-jye_004-h53
+    span:
+    - body
+    - 1427
+    - 1455
+  label: 貪生
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR5e0042_CK-KZ-jye_004-h54
+    span:
+    - body
+    - 1455
+    - 1483
+  label: 浮生¶<md:KR5e0042_HFL_004-009a>
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR5e0042_CK-KZ-jye_004-h55
+    span:
+    - body
+    - 1483
+    - 1511
+  label: 閑身
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR5e0042_CK-KZ-jye_004-h56
+    span:
+    - body
+    - 1511
+    - 1539
+  label: 詩魔
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR5e0042_CK-KZ-jye_004-h57
+    span:
+    - body
+    - 1539
+    - 1567
+  label: 同前
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR5e0042_CK-KZ-jye_004-h58
+    span:
+    - body
+    - 1567
+    - 1595
+  label: 蠹蟲
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR5e0042_CK-KZ-jye_004-h59
+    span:
+    - body
+    - 1595
+    - 1623
+  label: 多病
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR5e0042_CK-KZ-jye_004-h60
+    span:
+    - body
+    - 1623
+    - 1651
+  label: 機關
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR5e0042_CK-KZ-jye_004-h61
+    span:
+    - body
+    - 1651
+    - 1679
+  label: 幻形
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR5e0042_CK-KZ-jye_004-h62
+    span:
+    - body
+    - 1679
+    - 1707
+  label: 宜休
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR5e0042_CK-KZ-jye_004-h63
+    span:
+    - body
+    - 1707
+    - 1735
+  label: 黃籙
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR5e0042_CK-KZ-jye_004-h64
+    span:
+    - body
+    - 1735
+    - 1763
+  label: 正眼¶<md:KR5e0042_HFL_004-010b>
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR5e0042_CK-KZ-jye_004-h65
+    span:
+    - body
+    - 1763
+    - 1791
+  label: 虛堂
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR5e0042_CK-KZ-jye_004-h66
+    span:
+    - body
+    - 1791
+    - 1819
+  label: 安居
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR5e0042_CK-KZ-jye_004-h67
+    span:
+    - body
+    - 1819
+    - 1847
+  label: 天鈞
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR5e0042_CK-KZ-jye_004-h68
+    span:
+    - body
+    - 1847
+    - 1875
+  label: 神馬
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR5e0042_CK-KZ-jye_004-h69
+    span:
+    - body
+    - 1875
+    - 1903
+  label: 性珠
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR5e0042_CK-KZ-jye_004-h70
+    span:
+    - body
+    - 1903
+    - 1903
+  label: 六言絕句
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR5e0042_CK-KZ-jye_004-h71
+    span:
+    - body
+    - 1903
+    - 1927
+  label: 贈作針衛會首
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR5e0042_CK-KZ-jye_004-h72
+    span:
+    - body
+    - 1927
+    - 1951
+  label: 同前
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR5e0042_CK-KZ-jye_004-h73
+    span:
+    - body
+    - 1951
+    - 1975
+  label: 述懷
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR5e0042_CK-KZ-jye_004-h74
+    span:
+    - body
+    - 1975
+    - 1999
+  label: 孤月
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR5e0042_CK-KZ-jye_004-h75
+    span:
+    - body
+    - 1999
+    - 2023
+  label: 夢幻
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR5e0042_CK-KZ-jye_004-h76
+    span:
+    - body
+    - 2023
+    - 2047
+  label: 心安
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR5e0042_CK-KZ-jye_004-h77
+    span:
+    - body
+    - 2047
+    - 2071
+  label: 重玄
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR5e0042_CK-KZ-jye_004-h78
+    span:
+    - body
+    - 2071
+    - 2095
+  label: 時光¶<md:KR5e0042_HFL_004-012b>
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR5e0042_CK-KZ-jye_004-h79
+    span:
+    - body
+    - 2095
+    - 2119
+  label: 紅塵
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR5e0042_CK-KZ-jye_004-h80
+    span:
+    - body
+    - 2119
+    - 2143
+  label: 白虎
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR5e0042_CK-KZ-jye_004-h81
+    span:
+    - body
+    - 2143
+    - 2167
+  label: 日月
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR5e0042_CK-KZ-jye_004-h82
+    span:
+    - body
+    - 2167
+    - 2191
+  label: 形數
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR5e0042_CK-KZ-jye_004-h83
+    span:
+    - body
+    - 2191
+    - 2215
+  label: 月輪
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR5e0042_CK-KZ-jye_004-h84
+    span:
+    - body
+    - 2215
+    - 2239
+  label: 輪轉
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR5e0042_CK-KZ-jye_004-h85
+    span:
+    - body
+    - 2239
+    - 2263
+  label: 坐久
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR5e0042_CK-KZ-jye_004-h86
+    span:
+    - body
+    - 2263
+    - 2287
+  label: 眞僞
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR5e0042_CK-KZ-jye_004-h87
+    span:
+    - body
+    - 2287
+    - 2311
+  label: 靈明
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR5e0042_CK-KZ-jye_004-h88
+    span:
+    - body
+    - 2311
+    - 2335
+  label: 行止¶<md:KR5e0042_HFL_004-014a>
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR5e0042_CK-KZ-jye_004-h89
+    span:
+    - body
+    - 2335
+    - 2359
+  label: 見在
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR5e0042_CK-KZ-jye_004-h90
+    span:
+    - body
+    - 2359
+    - 2383
+  label: 家風
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR5e0042_CK-KZ-jye_004-h91
+    span:
+    - body
+    - 2383
+    - 2407
+  label: 天眞
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR5e0042_CK-KZ-jye_004-h92
+    span:
+    - body
+    - 2407
+    - 2431
+  label: 業識
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR5e0042_CK-KZ-jye_004-h93
+    span:
+    - body
+    - 2431
+    - 2455
+  label: 趨新
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR5e0042_CK-KZ-jye_004-h94
+    span:
+    - body
+    - 2455
+    - 2479
+  label: 知覺
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR5e0042_CK-KZ-jye_004-h95
+    span:
+    - body
+    - 2479
+    - 2503
+  label: 三教
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR5e0042_CK-KZ-jye_004-h96
+    span:
+    - body
+    - 2503
+    - 2503
+  label: 五言絕句
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR5e0042_CK-KZ-jye_004-h97
+    span:
+    - body
+    - 2503
+    - 2523
+  label: 荆棘
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR5e0042_CK-KZ-jye_004-h98
+    span:
+    - body
+    - 2523
+    - 2543
+  label: 賞音
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR5e0042_CK-KZ-jye_004-h99
+    span:
+    - body
+    - 2543
+    - 2563
+  label: 眞妄
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR5e0042_CK-KZ-jye_004-h100
+    span:
+    - body
+    - 2563
+    - 2583
+  label: 智巧
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR5e0042_CK-KZ-jye_004-h101
+    span:
+    - body
+    - 2583
+    - 2603
+  label: 病眼
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR5e0042_CK-KZ-jye_004-h102
+    span:
+    - body
+    - 2603
+    - 2623
+  label: 著相¶<md:KR5e0042_HFL_004-016a>
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR5e0042_CK-KZ-jye_004-h103
+    span:
+    - body
+    - 2623
+    - 2643
+  label: 燭熖
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR5e0042_CK-KZ-jye_004-h104
+    span:
+    - body
+    - 2643
+    - 2663
+  label: 心昧
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR5e0042_CK-KZ-jye_004-h105
+    span:
+    - body
+    - 2663
+    - 2683
+  label: 囘頭
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR5e0042_CK-KZ-jye_004-h106
+    span:
+    - body
+    - 2683
+    - 2703
+  label: 今古
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR5e0042_CK-KZ-jye_004-h107
+    span:
+    - body
+    - 2703
+    - 2723
+  label: 塵冗
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR5e0042_CK-KZ-jye_004-h108
+    span:
+    - body
+    - 2723
+    - 2743
+  label: 生滅
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR5e0042_CK-KZ-jye_004-h109
+    span:
+    - body
+    - 2743
+    - 2763
+  label: 塵心
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR5e0042_CK-KZ-jye_004-h110
+    span:
+    - body
+    - 2763
+    - 2783
+  label: 無盡藏
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR5e0042_CK-KZ-jye_004-h111
+    span:
+    - body
+    - 2783
+    - 2803
+  label: 愛欲
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR5e0042_CK-KZ-jye_004-h112
+    span:
+    - body
+    - 2803
+    - 2823
+  label: 媒翳¶<md:KR5e0042_HFL_004-017b>
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR5e0042_CK-KZ-jye_004-h113
+    span:
+    - body
+    - 2823
+    - 2843
+  label: 世事
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR5e0042_CK-KZ-jye_004-h114
+    span:
+    - body
+    - 2843
+    - 2863
+  label: 清靜
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR5e0042_CK-KZ-jye_004-h115
+    span:
+    - body
+    - 2863
+    - 2883
+  label: 衰鬢
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR5e0042_CK-KZ-jye_004-h116
+    span:
+    - body
+    - 2883
+    - 2903
+  label: 生死
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR5e0042_CK-KZ-jye_004-h117
+    span:
+    - body
+    - 2903
+    - 2923
+  label: 積塵
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR5e0042_CK-KZ-jye_004-h118
+    span:
+    - body
+    - 2923
+    - 2943
+  label: 陰陽
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR5e0042_CK-KZ-jye_004-h119
+    span:
+    - body
+    - 2943
+    - 2964
+  label: 大道
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR5e0042_CK-KZ-jye_004-h120
+    span:
+    - body
+    - 2964
+    - 3124
+  label: 七眞圖像
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR5e0042_CK-KZ-jye_005-h2
+    span:
+    - body
+    - 0
+    - 97
+  label: 瑶臺第一層
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR5e0042_CK-KZ-jye_005-h3
+    span:
+    - body
+    - 97
+    - 198
+  label: 木蘭花慢¶<md:KR5e0042_HFL_005-001b>
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR5e0042_CK-KZ-jye_005-h4
+    span:
+    - body
+    - 198
+    - 299
+  label: 其二
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR5e0042_CK-KZ-jye_005-h5
+    span:
+    - body
+    - 299
+    - 400
+  label: 其三
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR5e0042_CK-KZ-jye_005-h6
+    span:
+    - body
+    - 400
+    - 502
+  label: 水龍吟
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR5e0042_CK-KZ-jye_005-h7
+    span:
+    - body
+    - 502
+    - 604
+  label: 其二
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR5e0042_CK-KZ-jye_005-h8
+    span:
+    - body
+    - 604
+    - 706
+  label: 其三
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR5e0042_CK-KZ-jye_005-h9
+    span:
+    - body
+    - 706
+    - 806
+  label: 酹江月
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR5e0042_CK-KZ-jye_005-h10
+    span:
+    - body
+    - 806
+    - 906
+  label: 其二
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR5e0042_CK-KZ-jye_005-h11
+    span:
+    - body
+    - 906
+    - 1006
+  label: 其三
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR5e0042_CK-KZ-jye_005-h12
+    span:
+    - body
+    - 1006
+    - 1109
+  label: 喜遷鶯
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR5e0042_CK-KZ-jye_005-h13
+    span:
+    - body
+    - 1109
+    - 1204
+  label: 水調歌頭
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR5e0042_CK-KZ-jye_005-h14
+    span:
+    - body
+    - 1204
+    - 1299
+  label: 其二
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR5e0042_CK-KZ-jye_005-h15
+    span:
+    - body
+    - 1299
+    - 1491
+  label: 其三
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR5e0042_CK-KZ-jye_005-h16
+    span:
+    - body
+    - 1491
+    - 1586
+  label: 憶法眷伯瑜老
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR5e0042_CK-KZ-jye_005-h17
+    span:
+    - body
+    - 1586
+    - 1679
+  label: 滿江紅慢(勉劉主簿)
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR5e0042_CK-KZ-jye_005-h18
+    span:
+    - body
+    - 1679
+    - 1772
+  label: 其二
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR5e0042_CK-KZ-jye_005-h19
+    span:
+    - body
+    - 1772
+    - 1865
+  label: 其三
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR5e0042_CK-KZ-jye_005-h20
+    span:
+    - body
+    - 1865
+    - 1958
+  label: 其四¶<md:KR5e0042_HFL_005-008a>
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR5e0042_CK-KZ-jye_005-h21
+    span:
+    - body
+    - 1958
+    - 2051
+  label: 其五
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR5e0042_CK-KZ-jye_005-h22
+    span:
+    - body
+    - 2051
+    - 2144
+  label: 其六
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR5e0042_CK-KZ-jye_005-h23
+    span:
+    - body
+    - 2144
+    - 2144
+  label: 滿庭芳
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR5e0042_CK-KZ-jye_005-h24
+    span:
+    - body
+    - 2144
+    - 2239
+  label: 全眞
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR5e0042_CK-KZ-jye_005-h25
+    span:
+    - body
+    - 2239
+    - 2334
+  label: 李老先生慶八十
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR5e0042_CK-KZ-jye_005-h26
+    span:
+    - body
+    - 2334
+    - 2429
+  label: 李社長壽
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR5e0042_CK-KZ-jye_005-h27
+    span:
+    - body
+    - 2429
+    - 2528
+  label: 玉蝴蝶
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR5e0042_CK-KZ-jye_005-h28
+    span:
+    - body
+    - 2528
+    - 2627
+  label: 村居¶<md:KR5e0042_HFL_005-010b>
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR5e0042_CK-KZ-jye_005-h29
+    span:
+    - body
+    - 2627
+    - 2766
+  label: 金童捧露盤
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR5e0042_CK-KZ-jye_005-h30
+    span:
+    - body
+    - 2766
+    - 2903
+  label: 同前
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR5e0042_CK-KZ-jye_005-h31
+    span:
+    - body
+    - 2903
+    - 3042
+  label: 玉女搖仙珮
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR5e0042_CK-KZ-jye_005-h32
+    span:
+    - body
+    - 3042
+    - 3145
+  label: 東風第一枝
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR5e0042_CK-KZ-jye_005-h33
+    span:
+    - body
+    - 3145
+    - 3248
+  label: 詠茶
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR5e0042_CK-KZ-jye_005-h34
+    span:
+    - body
+    - 3248
+    - 3248
+  label: 江神子慢
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR5e0042_CK-KZ-jye_005-h35
+    span:
+    - body
+    - 3248
+    - 3358
+  label: 詠香
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR5e0042_CK-KZ-jye_005-h36
+    span:
+    - body
+    - 3358
+    - 3468
+  label: 同前
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR5e0042_CK-KZ-jye_005-h37
+    span:
+    - body
+    - 3468
+    - 3571
+  label: 齊天樂¶<md:KR5e0042_HFL_005-014a>
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR5e0042_CK-KZ-jye_005-h38
+    span:
+    - body
+    - 3571
+    - 3675
+  label: 春從天上來
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR5e0042_CK-KZ-jye_005-h39
+    span:
+    - body
+    - 3675
+    - 3779
+  label: 天壽節
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR5e0042_CK-KZ-jye_005-h40
+    span:
+    - body
+    - 3779
+    - 3883
+  label: 其三
+  type: section
+  level: 4
+- ref:
+    seq: 5
+    marker_id: KR5e0042_CK-KZ-jye_005-h41
+    span:
+    - body
+    - 3883
+    - 3987
+  label: 其四
+  type: section
+  level: 4
+- ref:
+    seq: 5
+    marker_id: KR5e0042_CK-KZ-jye_005-h42
+    span:
+    - body
+    - 3987
+    - 4091
+  label: 其五¶<md:KR5e0042_HFL_005-016a>
+  type: section
+  level: 4
+- ref:
+    seq: 5
+    marker_id: KR5e0042_CK-KZ-jye_005-h43
+    span:
+    - body
+    - 4091
+    - 4189
+  label: 雨中花
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR5e0042_CK-KZ-jye_005-h44
+    span:
+    - body
+    - 4189
+    - 4287
+  label: 其二
+  type: section
+  level: 4
+- ref:
+    seq: 5
+    marker_id: KR5e0042_CK-KZ-jye_005-h45
+    span:
+    - body
+    - 4287
+    - 4385
+  label: 其三
+  type: section
+  level: 4
+- ref:
+    seq: 5
+    marker_id: KR5e0042_CK-KZ-jye_005-h46
+    span:
+    - body
+    - 4385
+    - 4492
+  label: 望海潮
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR5e0042_CK-KZ-jye_005-h47
+    span:
+    - body
+    - 4492
+    - 4591
+  label: 洞仙歌
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR5e0042_CK-KZ-jye_005-h48
+    span:
+    - body
+    - 4591
+    - 4690
+  label: 同前
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR5e0042_CK-KZ-jye_005-h49
+    span:
+    - body
+    - 4690
+    - 4794
+  label: 月中仙
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR5e0042_CK-KZ-jye_005-h50
+    span:
+    - body
+    - 4794
+    - 4868
+  label: 粉蝶兒
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR5e0042_CK-KZ-jye_005-h51
+    span:
+    - body
+    - 4868
+    - 4942
+  label: 其二
+  type: section
+  level: 4
+- ref:
+    seq: 5
+    marker_id: KR5e0042_CK-KZ-jye_005-h52
+    span:
+    - body
+    - 4942
+    - 5016
+  label: 其三
+  type: section
+  level: 4
+- ref:
+    seq: 5
+    marker_id: KR5e0042_CK-KZ-jye_005-h53
+    span:
+    - body
+    - 5016
+    - 5092
+  label: 婆羅門引
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR5e0042_CK-KZ-jye_005-h54
+    span:
+    - body
+    - 5092
+    - 5168
+  label: 其二
+  type: section
+  level: 4
+- ref:
+    seq: 5
+    marker_id: KR5e0042_CK-KZ-jye_005-h55
+    span:
+    - body
+    - 5168
+    - 5245
+  label: 其三
+  type: section
+  level: 4
+- ref:
+    seq: 5
+    marker_id: KR5e0042_CK-KZ-jye_005-h56
+    span:
+    - body
+    - 5245
+    - 5321
+  label: 其四
+  type: section
+  level: 4
+- ref:
+    seq: 5
+    marker_id: KR5e0042_CK-KZ-jye_005-h57
+    span:
+    - body
+    - 5321
+    - 5385
+  label: 侍香金童
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR5e0042_CK-KZ-jye_005-h58
+    span:
+    - body
+    - 5385
+    - 5458
+  label: 傳言玉女
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR5e0042_CK-KZ-jye_005-h59
+    span:
+    - body
+    - 5458
+    - 5458
+  label: 望梅花
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR5e0042_CK-KZ-jye_005-h60
+    span:
+    - body
+    - 5458
+    - 5541
+  label: 布袍
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR5e0042_CK-KZ-jye_005-h61
+    span:
+    - body
+    - 5541
+    - 5623
+  label: 衲襖
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR5e0042_CK-KZ-jye_005-h62
+    span:
+    - body
+    - 5623
+    - 5705
+  label: 驀山溪
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR5e0042_CK-KZ-jye_005-h63
+    span:
+    - body
+    - 5705
+    - 5787
+  label: 其二
+  type: section
+  level: 4
+- ref:
+    seq: 5
+    marker_id: KR5e0042_CK-KZ-jye_005-h64
+    span:
+    - body
+    - 5787
+    - 5869
+  label: 其三
+  type: section
+  level: 4
+- ref:
+    seq: 5
+    marker_id: KR5e0042_CK-KZ-jye_005-h65
+    span:
+    - body
+    - 5869
+    - 5949
+  label: 其四
+  type: section
+  level: 4
+- ref:
+    seq: 5
+    marker_id: KR5e0042_CK-KZ-jye_005-h66
+    span:
+    - body
+    - 5949
+    - 6005
+  label: 鵲橋仙
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR5e0042_CK-KZ-jye_005-h67
+    span:
+    - body
+    - 6005
+    - 6061
+  label: 其二
+  type: section
+  level: 4
+- ref:
+    seq: 5
+    marker_id: KR5e0042_CK-KZ-jye_005-h68
+    span:
+    - body
+    - 6061
+    - 6117
+  label: 其三
+  type: section
+  level: 4
+- ref:
+    seq: 5
+    marker_id: KR5e0042_CK-KZ-jye_005-h69
+    span:
+    - body
+    - 6117
+    - 6173
+  label: 其四
+  type: section
+  level: 4
+- ref:
+    seq: 5
+    marker_id: KR5e0042_CK-KZ-jye_005-h70
+    span:
+    - body
+    - 6173
+    - 6229
+  label: 其五
+  type: section
+  level: 4
+- ref:
+    seq: 5
+    marker_id: KR5e0042_CK-KZ-jye_005-h71
+    span:
+    - body
+    - 6229
+    - 6285
+  label: 其六
+  type: section
+  level: 4
+- ref:
+    seq: 5
+    marker_id: KR5e0042_CK-KZ-jye_005-h72
+    span:
+    - body
+    - 6285
+    - 6341
+  label: 其七
+  type: section
+  level: 4
+- ref:
+    seq: 5
+    marker_id: KR5e0042_CK-KZ-jye_005-h73
+    span:
+    - body
+    - 6341
+    - 6397
+  label: 其八
+  type: section
+  level: 4
+- ref:
+    seq: 5
+    marker_id: KR5e0042_CK-KZ-jye_005-h74
+    span:
+    - body
+    - 6397
+    - 6453
+  label: 其九
+  type: section
+  level: 4
+- ref:
+    seq: 5
+    marker_id: KR5e0042_CK-KZ-jye_005-h75
+    span:
+    - body
+    - 6453
+    - 6500
+  label: 其十
+  type: section
+  level: 4
+- ref:
+    seq: 6
+    marker_id: KR5e0042_CK-KZ-jye_006-h1
+    span:
+    - body
+    - 0
+    - 57
+  label: 其十一(贈大方丈檀城)
+  type: section
+  level: 4
+- ref:
+    seq: 6
+    marker_id: KR5e0042_CK-KZ-jye_006-h2
+    span:
+    - body
+    - 57
+    - 106
+  label: 太常引
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR5e0042_CK-KZ-jye_006-h3
+    span:
+    - body
+    - 106
+    - 155
+  label: 其二
+  type: section
+  level: 4
+- ref:
+    seq: 6
+    marker_id: KR5e0042_CK-KZ-jye_006-h4
+    span:
+    - body
+    - 155
+    - 204
+  label: 其三
+  type: section
+  level: 4
+- ref:
+    seq: 6
+    marker_id: KR5e0042_CK-KZ-jye_006-h5
+    span:
+    - body
+    - 204
+    - 253
+  label: 其四
+  type: section
+  level: 4
+- ref:
+    seq: 6
+    marker_id: KR5e0042_CK-KZ-jye_006-h6
+    span:
+    - body
+    - 253
+    - 302
+  label: 其五
+  type: section
+  level: 4
+- ref:
+    seq: 6
+    marker_id: KR5e0042_CK-KZ-jye_006-h7
+    span:
+    - body
+    - 302
+    - 351
+  label: 其六
+  type: section
+  level: 4
+- ref:
+    seq: 6
+    marker_id: KR5e0042_CK-KZ-jye_006-h8
+    span:
+    - body
+    - 351
+    - 400
+  label: 其七
+  type: section
+  level: 4
+- ref:
+    seq: 6
+    marker_id: KR5e0042_CK-KZ-jye_006-h9
+    span:
+    - body
+    - 400
+    - 449
+  label: 其八
+  type: section
+  level: 4
+- ref:
+    seq: 6
+    marker_id: KR5e0042_CK-KZ-jye_006-h10
+    span:
+    - body
+    - 449
+    - 498
+  label: 其九
+  type: section
+  level: 4
+- ref:
+    seq: 6
+    marker_id: KR5e0042_CK-KZ-jye_006-h11
+    span:
+    - body
+    - 498
+    - 547
+  label: 其十
+  type: section
+  level: 4
+- ref:
+    seq: 6
+    marker_id: KR5e0042_CK-KZ-jye_006-h12
+    span:
+    - body
+    - 547
+    - 602
+  label: 鷓鴣天
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR5e0042_CK-KZ-jye_006-h13
+    span:
+    - body
+    - 602
+    - 657
+  label: 其二
+  type: section
+  level: 4
+- ref:
+    seq: 6
+    marker_id: KR5e0042_CK-KZ-jye_006-h14
+    span:
+    - body
+    - 657
+    - 712
+  label: 其三
+  type: section
+  level: 4
+- ref:
+    seq: 6
+    marker_id: KR5e0042_CK-KZ-jye_006-h15
+    span:
+    - body
+    - 712
+    - 767
+  label: 其四
+  type: section
+  level: 4
+- ref:
+    seq: 6
+    marker_id: KR5e0042_CK-KZ-jye_006-h16
+    span:
+    - body
+    - 767
+    - 822
+  label: 其五
+  type: section
+  level: 4
+- ref:
+    seq: 6
+    marker_id: KR5e0042_CK-KZ-jye_006-h17
+    span:
+    - body
+    - 822
+    - 877
+  label: 其六
+  type: section
+  level: 4
+- ref:
+    seq: 6
+    marker_id: KR5e0042_CK-KZ-jye_006-h18
+    span:
+    - body
+    - 877
+    - 932
+  label: 其七
+  type: section
+  level: 4
+- ref:
+    seq: 6
+    marker_id: KR5e0042_CK-KZ-jye_006-h19
+    span:
+    - body
+    - 932
+    - 987
+  label: 其八
+  type: section
+  level: 4
+- ref:
+    seq: 6
+    marker_id: KR5e0042_CK-KZ-jye_006-h20
+    span:
+    - body
+    - 987
+    - 1042
+  label: 其九
+  type: section
+  level: 4
+- ref:
+    seq: 6
+    marker_id: KR5e0042_CK-KZ-jye_006-h21
+    span:
+    - body
+    - 1042
+    - 1097
+  label: 其十
+  type: section
+  level: 4
+- ref:
+    seq: 6
+    marker_id: KR5e0042_CK-KZ-jye_006-h22
+    span:
+    - body
+    - 1097
+    - 1152
+  label: 其十一
+  type: section
+  level: 4
+- ref:
+    seq: 6
+    marker_id: KR5e0042_CK-KZ-jye_006-h23
+    span:
+    - body
+    - 1152
+    - 1207
+  label: 其十二
+  type: section
+  level: 4
+- ref:
+    seq: 6
+    marker_id: KR5e0042_CK-KZ-jye_006-h24
+    span:
+    - body
+    - 1207
+    - 1262
+  label: 其十三
+  type: section
+  level: 4
+- ref:
+    seq: 6
+    marker_id: KR5e0042_CK-KZ-jye_006-h25
+    span:
+    - body
+    - 1262
+    - 1317
+  label: 其十四
+  type: section
+  level: 4
+- ref:
+    seq: 6
+    marker_id: KR5e0042_CK-KZ-jye_006-h26
+    span:
+    - body
+    - 1317
+    - 1372
+  label: 其十五
+  type: section
+  level: 4
+- ref:
+    seq: 6
+    marker_id: KR5e0042_CK-KZ-jye_006-h27
+    span:
+    - body
+    - 1372
+    - 1427
+  label: 其十六
+  type: section
+  level: 4
+- ref:
+    seq: 6
+    marker_id: KR5e0042_CK-KZ-jye_006-h28
+    span:
+    - body
+    - 1427
+    - 1482
+  label: 其十七
+  type: section
+  level: 4
+- ref:
+    seq: 6
+    marker_id: KR5e0042_CK-KZ-jye_006-h29
+    span:
+    - body
+    - 1482
+    - 1537
+  label: 其十八
+  type: section
+  level: 4
+- ref:
+    seq: 6
+    marker_id: KR5e0042_CK-KZ-jye_006-h30
+    span:
+    - body
+    - 1537
+    - 1597
+  label: 臨江仙
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR5e0042_CK-KZ-jye_006-h31
+    span:
+    - body
+    - 1597
+    - 1657
+  label: 其二
+  type: section
+  level: 4
+- ref:
+    seq: 6
+    marker_id: KR5e0042_CK-KZ-jye_006-h32
+    span:
+    - body
+    - 1657
+    - 1717
+  label: 其三
+  type: section
+  level: 4
+- ref:
+    seq: 6
+    marker_id: KR5e0042_CK-KZ-jye_006-h33
+    span:
+    - body
+    - 1717
+    - 1777
+  label: 其四
+  type: section
+  level: 4
+- ref:
+    seq: 6
+    marker_id: KR5e0042_CK-KZ-jye_006-h34
+    span:
+    - body
+    - 1777
+    - 1837
+  label: 其五
+  type: section
+  level: 4
+- ref:
+    seq: 6
+    marker_id: KR5e0042_CK-KZ-jye_006-h35
+    span:
+    - body
+    - 1837
+    - 1897
+  label: 其六
+  type: section
+  level: 4
+- ref:
+    seq: 6
+    marker_id: KR5e0042_CK-KZ-jye_006-h36
+    span:
+    - body
+    - 1897
+    - 1938
+  label: 萬年春
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR5e0042_CK-KZ-jye_006-h37
+    span:
+    - body
+    - 1938
+    - 1979
+  label: 其二
+  type: section
+  level: 4
+- ref:
+    seq: 6
+    marker_id: KR5e0042_CK-KZ-jye_006-h38
+    span:
+    - body
+    - 1979
+    - 2020
+  label: 其三
+  type: section
+  level: 4
+- ref:
+    seq: 6
+    marker_id: KR5e0042_CK-KZ-jye_006-h39
+    span:
+    - body
+    - 2020
+    - 2082
+  label: 漁家傲
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR5e0042_CK-KZ-jye_006-h40
+    span:
+    - body
+    - 2082
+    - 2144
+  label: 其二¶<md:KR5e0042_HFL_006-010a>
+  type: section
+  level: 4
+- ref:
+    seq: 6
+    marker_id: KR5e0042_CK-KZ-jye_006-h41
+    span:
+    - body
+    - 2144
+    - 2211
+  label: 感皇恩
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR5e0042_CK-KZ-jye_006-h42
+    span:
+    - body
+    - 2211
+    - 2278
+  label: 其二¶<md:KR5e0042_HFL_006-010b>
+  type: section
+  level: 4
+- ref:
+    seq: 6
+    marker_id: KR5e0042_CK-KZ-jye_006-h43
+    span:
+    - body
+    - 2278
+    - 2345
+  label: 其三
+  type: section
+  level: 4
+- ref:
+    seq: 6
+    marker_id: KR5e0042_CK-KZ-jye_006-h44
+    span:
+    - body
+    - 2345
+    - 2412
+  label: 其四¶<md:KR5e0042_HFL_006-011a>
+  type: section
+  level: 4
+- ref:
+    seq: 6
+    marker_id: KR5e0042_CK-KZ-jye_006-h45
+    span:
+    - body
+    - 2412
+    - 2479
+  label: 其五
+  type: section
+  level: 4
+- ref:
+    seq: 6
+    marker_id: KR5e0042_CK-KZ-jye_006-h46
+    span:
+    - body
+    - 2479
+    - 2546
+  label: 其六¶<md:KR5e0042_HFL_006-011b>
+  type: section
+  level: 4
+- ref:
+    seq: 6
+    marker_id: KR5e0042_CK-KZ-jye_006-h47
+    span:
+    - body
+    - 2546
+    - 2613
+  label: 其七
+  type: section
+  level: 4
+- ref:
+    seq: 6
+    marker_id: KR5e0042_CK-KZ-jye_006-h48
+    span:
+    - body
+    - 2613
+    - 2680
+  label: 其八¶<md:KR5e0042_HFL_006-012a>
+  type: section
+  level: 4
+- ref:
+    seq: 6
+    marker_id: KR5e0042_CK-KZ-jye_006-h49
+    span:
+    - body
+    - 2680
+    - 2747
+  label: 其九
+  type: section
+  level: 4
+- ref:
+    seq: 6
+    marker_id: KR5e0042_CK-KZ-jye_006-h50
+    span:
+    - body
+    - 2747
+    - 2814
+  label: 其十¶<md:KR5e0042_HFL_006-012b>
+  type: section
+  level: 4
+- ref:
+    seq: 6
+    marker_id: KR5e0042_CK-KZ-jye_006-h51
+    span:
+    - body
+    - 2814
+    - 2881
+  label: 其十一
+  type: section
+  level: 4
+- ref:
+    seq: 6
+    marker_id: KR5e0042_CK-KZ-jye_006-h52
+    span:
+    - body
+    - 2881
+    - 2948
+  label: 其十二¶<md:KR5e0042_HFL_006-013a>
+  type: section
+  level: 4
+- ref:
+    seq: 6
+    marker_id: KR5e0042_CK-KZ-jye_006-h53
+    span:
+    - body
+    - 2948
+    - 3010
+  label: 青杏兒詠菊
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR5e0042_CK-KZ-jye_006-h54
+    span:
+    - body
+    - 3010
+    - 3072
+  label: 其二¶<md:KR5e0042_HFL_006-013b>
+  type: section
+  level: 4
+- ref:
+    seq: 6
+    marker_id: KR5e0042_CK-KZ-jye_006-h55
+    span:
+    - body
+    - 3072
+    - 3134
+  label: 其三
+  type: section
+  level: 4
+- ref:
+    seq: 6
+    marker_id: KR5e0042_CK-KZ-jye_006-h56
+    span:
+    - body
+    - 3134
+    - 3196
+  label: 其四¶<md:KR5e0042_HFL_006-014a>
+  type: section
+  level: 4
+- ref:
+    seq: 6
+    marker_id: KR5e0042_CK-KZ-jye_006-h57
+    span:
+    - body
+    - 3196
+    - 3258
+  label: 其五
+  type: section
+  level: 4
+- ref:
+    seq: 6
+    marker_id: KR5e0042_CK-KZ-jye_006-h58
+    span:
+    - body
+    - 3258
+    - 3306
+  label: 武陵春¶<md:KR5e0042_HFL_006-014b>
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR5e0042_CK-KZ-jye_006-h59
+    span:
+    - body
+    - 3306
+    - 3354
+  label: 其二
+  type: section
+  level: 4
+- ref:
+    seq: 6
+    marker_id: KR5e0042_CK-KZ-jye_006-h60
+    span:
+    - body
+    - 3354
+    - 3402
+  label: 其三
+  type: section
+  level: 4
+- ref:
+    seq: 6
+    marker_id: KR5e0042_CK-KZ-jye_006-h61
+    span:
+    - body
+    - 3402
+    - 3450
+  label: 其四
+  type: section
+  level: 4
+- ref:
+    seq: 6
+    marker_id: KR5e0042_CK-KZ-jye_006-h62
+    span:
+    - body
+    - 3450
+    - 3500
+  label: 柳稍青
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR5e0042_CK-KZ-jye_006-h63
+    span:
+    - body
+    - 3500
+    - 3550
+  label: 其二¶<md:KR5e0042_HFL_006-015b>
+  type: section
+  level: 4
+- ref:
+    seq: 6
+    marker_id: KR5e0042_CK-KZ-jye_006-h64
+    span:
+    - body
+    - 3550
+    - 3600
+  label: 其三
+  type: section
+  level: 4
+- ref:
+    seq: 6
+    marker_id: KR5e0042_CK-KZ-jye_006-h65
+    span:
+    - body
+    - 3600
+    - 3660
+  label: 恣逍遙
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR5e0042_CK-KZ-jye_006-h66
+    span:
+    - body
+    - 3660
+    - 3720
+  label: 其二
+  type: section
+  level: 4
+- ref:
+    seq: 6
+    marker_id: KR5e0042_CK-KZ-jye_006-h67
+    span:
+    - body
+    - 3720
+    - 3780
+  label: 其三
+  type: section
+  level: 4
+- ref:
+    seq: 6
+    marker_id: KR5e0042_CK-KZ-jye_006-h68
+    span:
+    - body
+    - 3780
+    - 3840
+  label: 鳳棲梧
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR5e0042_CK-KZ-jye_006-h69
+    span:
+    - body
+    - 3840
+    - 3900
+  label: 其二
+  type: section
+  level: 4
+- ref:
+    seq: 6
+    marker_id: KR5e0042_CK-KZ-jye_006-h70
+    span:
+    - body
+    - 3900
+    - 3960
+  label: 一剪梅
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR5e0042_CK-KZ-jye_006-h71
+    span:
+    - body
+    - 3960
+    - 4020
+  label: 其二
+  type: section
+  level: 4
+- ref:
+    seq: 6
+    marker_id: KR5e0042_CK-KZ-jye_006-h72
+    span:
+    - body
+    - 4020
+    - 4080
+  label: 其三
+  type: section
+  level: 4
+- ref:
+    seq: 6
+    marker_id: KR5e0042_CK-KZ-jye_006-h73
+    span:
+    - body
+    - 4080
+    - 4140
+  label: 其四
+  type: section
+  level: 4
+- ref:
+    seq: 6
+    marker_id: KR5e0042_CK-KZ-jye_006-h74
+    span:
+    - body
+    - 4140
+    - 4200
+  label: 其五
+  type: section
+  level: 4
+- ref:
+    seq: 6
+    marker_id: KR5e0042_CK-KZ-jye_006-h75
+    span:
+    - body
+    - 4200
+    - 4250
+  label: 西江月
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR5e0042_CK-KZ-jye_006-h76
+    span:
+    - body
+    - 4250
+    - 4300
+  label: 其二
+  type: section
+  level: 4
+- ref:
+    seq: 6
+    marker_id: KR5e0042_CK-KZ-jye_006-h77
+    span:
+    - body
+    - 4300
+    - 4350
+  label: 其三
+  type: section
+  level: 4
+- ref:
+    seq: 6
+    marker_id: KR5e0042_CK-KZ-jye_006-h78
+    span:
+    - body
+    - 4350
+    - 4400
+  label: 其四¶<md:KR5e0042_HFL_006-019a>
+  type: section
+  level: 4
+- ref:
+    seq: 6
+    marker_id: KR5e0042_CK-KZ-jye_006-h79
+    span:
+    - body
+    - 4400
+    - 4450
+  label: 其五
+  type: section
+  level: 4
+- ref:
+    seq: 6
+    marker_id: KR5e0042_CK-KZ-jye_006-h80
+    span:
+    - body
+    - 4450
+    - 4500
+  label: 其六
+  type: section
+  level: 4
+- ref:
+    seq: 6
+    marker_id: KR5e0042_CK-KZ-jye_006-h81
+    span:
+    - body
+    - 4500
+    - 4550
+  label: 其七
+  type: section
+  level: 4
+- ref:
+    seq: 6
+    marker_id: KR5e0042_CK-KZ-jye_006-h82
+    span:
+    - body
+    - 4550
+    - 4600
+  label: 其八
+  type: section
+  level: 4
+- ref:
+    seq: 6
+    marker_id: KR5e0042_CK-KZ-jye_006-h83
+    span:
+    - body
+    - 4600
+    - 4650
+  label: 其九¶<md:KR5e0042_HFL_006-020a>
+  type: section
+  level: 4
+- ref:
+    seq: 6
+    marker_id: KR5e0042_CK-KZ-jye_006-h84
+    span:
+    - body
+    - 4650
+    - 4700
+  label: 其十
+  type: section
+  level: 4
+- ref:
+    seq: 6
+    marker_id: KR5e0042_CK-KZ-jye_006-h85
+    span:
+    - body
+    - 4700
+    - 4746
+  label: 巫山一段雲
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR5e0042_CK-KZ-jye_006-h86
+    span:
+    - body
+    - 4746
+    - 4792
+  label: 其二
+  type: section
+  level: 4
+- ref:
+    seq: 6
+    marker_id: KR5e0042_CK-KZ-jye_006-h87
+    span:
+    - body
+    - 4792
+    - 4838
+  label: 其三
+  type: section
+  level: 4
+- ref:
+    seq: 6
+    marker_id: KR5e0042_CK-KZ-jye_006-h88
+    span:
+    - body
+    - 4838
+    - 4884
+  label: 其四¶<md:KR5e0042_HFL_006-021a>
+  type: section
+  level: 4
+- ref:
+    seq: 6
+    marker_id: KR5e0042_CK-KZ-jye_006-h89
+    span:
+    - body
+    - 4884
+    - 4930
+  label: 其五
+  type: section
+  level: 4
+- ref:
+    seq: 6
+    marker_id: KR5e0042_CK-KZ-jye_006-h90
+    span:
+    - body
+    - 4930
+    - 4930
+  label: 其六
+  type: section
+  level: 4
+- ref:
+    seq: 7
+    marker_id: KR5e0042_CK-KZ-jye_007-h1
+    span:
+    - body
+    - 0
+    - 62
+  label: 蘇幕遮
+  type: section
+  level: 3
+- ref:
+    seq: 7
+    marker_id: KR5e0042_CK-KZ-jye_007-h2
+    span:
+    - body
+    - 62
+    - 1104
+  label: 重陽祖師開道碑
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR5e0042_CK-KZ-jye_007-h3
+    span:
+    - body
+    - 1104
+    - 1609
+  label: 終南山棲雲觀碑
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR5e0042_CK-KZ-jye_007-h4
+    span:
+    - body
+    - 1609
+    - 2408
+  label: 洛陽棲雲觀碑
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR5e0042_CK-KZ-jye_007-h5
+    span:
+    - body
+    - 2408
+    - 3026
+  label: 盤山棲雲觀碑
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR5e0042_CK-KZ-jye_007-h6
+    span:
+    - body
+    - 3026
+    - 3583
+  label: 高唐重修慧沖道觀碑
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR5e0042_CK-KZ-jye_007-h7
+    span:
+    - body
+    - 3583
+    - 5018
+  label: 長春眞人成道碑
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR5e0042_CK-KZ-jye_007-h8
+    span:
+    - body
+    - 5018
+    - 5703
+  label: 咸甯清華觀碑
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR5e0042_CK-KZ-jye_007-h9
+    span:
+    - body
+    - 5703
+    - 6231
+  label: 鄢陵黃籙大齋之碑
+  type: section
+  level: 2
+- ref:
+    seq: 8
+    marker_id: KR5e0042_CK-KZ-jye_008-h1
+    span:
+    - body
+    - 0
+    - 700
+  label: 京兆普度碑
+  type: section
+  level: 2
+- ref:
+    seq: 8
+    marker_id: KR5e0042_CK-KZ-jye_008-h2
+    span:
+    - body
+    - 700
+    - 1228
+  label: 黃籙大齋碑
+  type: section
+  level: 2
+- ref:
+    seq: 8
+    marker_id: KR5e0042_CK-KZ-jye_008-h3
+    span:
+    - body
+    - 1228
+    - 2249
+  label: 南昌觀碑
+  type: section
+  level: 2
+- ref:
+    seq: 8
+    marker_id: KR5e0042_CK-KZ-jye_008-h4
+    span:
+    - body
+    - 2249
+    - 3928
+  label: 巢雲遇眞記
+  type: section
+  level: 2
+- ref:
+    seq: 8
+    marker_id: KR5e0042_CK-KZ-jye_008-h5
+    span:
+    - body
+    - 3928
+    - 4684
+  label: 開州神清觀記
+  type: section
+  level: 2
+hash: sha256:5e5a6a98df60154dbf33672dca7a5b2ce03d5e8da6a478389b65a471d8328655
