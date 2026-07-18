@@ -165,6 +165,7 @@ markers:
   - {type: variant, offset: 248, length: 5, content: 春盤山四詠, CK-KZ-jye: ''}
   - {type: page-break, offset: 248, content: '', id: KR5e0042_YP-C_18maoji-06-0064a, image: JY221/18maoji-06-0064a.png}
   - {type: punctuation, offset: 249, content: (, id: KR5e0042_krp_004-bkkpn1}
+  - {type: voice, offset: 249, length: 4, name: note, id: n1}
   - {type: punctuation, offset: 253, content: ), id: KR5e0042_krp_004-bkkpn2}
   - {type: 'kr:newline', offset: 253, content: '
 
@@ -869,6 +870,7 @@ markers:
   - {type: indent, offset: 1396, content: 　　　, id: KR5e0042_krp_004-bkkind49}
   - {type: variant, offset: 1396, length: 20, content: 道經或云道家無經止五千言而已故作詩以咄之, CK-KZ-jye: ''}
   - {type: punctuation, offset: 1398, content: (, id: KR5e0042_krp_004-bkkpn3}
+  - {type: voice, offset: 1398, length: 18, name: note, id: n2}
   - {type: punctuation, offset: 1407, content: /, id: KR5e0042_krp_004-bkkpn4}
   - {type: punctuation, offset: 1416, content: ), id: KR5e0042_krp_004-bkkpn5}
   - {type: 'kr:newline', offset: 1416, content: '
@@ -2299,4 +2301,4 @@ markers:
 
       ', id: KR5e0042_krp_004-bkkkrnewl408}
   back: []
-hash: sha256:c79c29ee42d226a20ee4ddbd10870822f3ef1a97d7dad38b30c22604aabaf916
+hash: sha256:8ce023cea97da51418b6dc5522a5cd0c8b7d886a2f0b6510ebabf423a6b2b99a

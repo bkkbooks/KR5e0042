@@ -757,6 +757,7 @@ markers:
   - {type: indent, offset: 1640, content: 　　　, id: KR5e0042_krp_005-bkkind30}
   - {type: variant, offset: 1640, length: 8, content: 滿江紅慢勉劉主簿, CK-KZ-jye: ''}
   - {type: punctuation, offset: 1644, content: (, id: KR5e0042_krp_005-bkkpn1}
+  - {type: voice, offset: 1644, length: 4, name: note, id: n1}
   - {type: punctuation, offset: 1648, content: ), id: KR5e0042_krp_005-bkkpn2}
   - {type: 'kr:newline', offset: 1648, content: '
 
@@ -3227,6 +3228,7 @@ markers:
   - {type: line-break, offset: 6728, content: '', id: KR5e0042_HFL_005-025b09}
   - {type: indent, offset: 6728, content: 　　　, id: KR5e0042_krp_005-bkkind142}
   - {type: punctuation, offset: 6731, content: (, id: KR5e0042_krp_005-bkkpn3}
+  - {type: voice, offset: 6731, length: 6, name: note, id: n2}
   - {type: punctuation, offset: 6737, content: ), id: KR5e0042_krp_005-bkkpn4}
   - {type: 'kr:newline', offset: 6737, content: '
 
@@ -3278,4 +3280,4 @@ markers:
 
       ', id: KR5e0042_krp_005-bkkkrnewl560}
   back: []
-hash: sha256:212b708538d587a161b2c31431faea58949f049491a17739acb66444e1f5cb6a
+hash: sha256:10ab7cd6b67dfbf34d1c93b779a686d8580620adc33a5047333a6b2eb77dd4e0

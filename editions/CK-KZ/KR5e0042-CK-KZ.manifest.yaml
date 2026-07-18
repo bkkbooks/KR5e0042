@@ -37,9 +37,9 @@ assets:
   - {seq: 1, role: markers, filename: assets/KR5e0042_001-CK-KZ.markers.yaml, hash: 'sha256:a9147e48dfa193be8a4988fb3f07927f2c10529050f79f32273f5a6dfc145867'}
   - {seq: 2, role: markers, filename: assets/KR5e0042_002-CK-KZ.markers.yaml, hash: 'sha256:45a5538e20a82c59a503fc6c9e7d3888fa8ef29378ff9b01ed666f368ecb4820'}
   - {seq: 3, role: markers, filename: assets/KR5e0042_003-CK-KZ.markers.yaml, hash: 'sha256:fcf87bf10787078516f544e4d4dd0af58b313f6d573600e5a2585d169c216917'}
-  - {seq: 4, role: markers, filename: assets/KR5e0042_004-CK-KZ.markers.yaml, hash: 'sha256:cb2753d2a85d0c93e4220bcc44d053715078bc0d5c7acf6aa8a80c02c33e0e5e'}
-  - {seq: 5, role: markers, filename: assets/KR5e0042_005-CK-KZ.markers.yaml, hash: 'sha256:ed6be2585369674e191a229125e3d46c1841901a22c55e2d6fc0e16c54d677f2'}
-  - {seq: 6, role: markers, filename: assets/KR5e0042_006-CK-KZ.markers.yaml, hash: 'sha256:372e9578fc3f9382a7f39806f2cec1a1e8bf8df3b6901a65563396e8bd9d030f'}
+  - {seq: 4, role: markers, filename: assets/KR5e0042_004-CK-KZ.markers.yaml, hash: 'sha256:d194c9ca35244770f3780dddda3281a9c0ad7156702a59721cf35e56e2d85680'}
+  - {seq: 5, role: markers, filename: assets/KR5e0042_005-CK-KZ.markers.yaml, hash: 'sha256:9f0841daeeb7eff6b6f8db9f11ecf626fc78bf1afadbbaecba937a7915187870'}
+  - {seq: 6, role: markers, filename: assets/KR5e0042_006-CK-KZ.markers.yaml, hash: 'sha256:004d4aa89cee508ae0bcaf1e7ab9f8a0450903140a52a24d55bfe74be1439f4f'}
   - {seq: 7, role: markers, filename: assets/KR5e0042_007-CK-KZ.markers.yaml, hash: 'sha256:62254966ba3fbd40aea1926379f1f4e58e14d698a6e60f3be0ee4575f0fb6789'}
   - {seq: 8, role: markers, filename: assets/KR5e0042_008-CK-KZ.markers.yaml, hash: 'sha256:5c47a3cfb92e3f39ef2233f81a360e4e496272ad7369da9f652c5cc631534128'}
 table_of_contents:
@@ -133,4 +133,4 @@ table_of_contents:
   label: juan 008
   type: section
   level: 1
-hash: sha256:478e9038db174a05a067b33bcea6c788540f14993a59a01591f12d039291000c
+hash: sha256:7071b9b3626f85b8fbcad2fee628a451a17bbdbe9f33f14b7b8c1ee38c029749
